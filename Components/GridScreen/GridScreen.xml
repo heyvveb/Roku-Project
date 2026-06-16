@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="GridScreen" extend="Group" initialFocus="RowList">
+    <script type="text/brightscript" uri="GridScreen.brs" />
+        <interface>
+            <!-- Content for the grid screen-->
+            <field id="conten" type="node" alias="RowList.content" />
+        </interface>
+        <children>
+            <!-- Label whit the tittle and lenght of content -->
+            <Label
+                id="titleLabel"
+                widht="1020"
+                translation="[130,170]"
+            />
+            <!-- Label whit the description and lenght of content -->
+            <Label
+                id="descriptionLabel"
+                wrap="true"
+                widht="1020"
+                numLines="3"
+                translation="[130,220]"
+            />
+            <RowList
+                itemComponentName="RowListItemComponent"
+                id="rowList"
+                translation="[80,350]"
+                numRows="2"
+                rowItemSize="[[320,180]]"
+                rowItemSpacing="[[20,0]]"
+                itemsize="[1100,270]"
+                rowLabelOffset="[[50,20]]"
+                focusXOffset="[50]"
+                showRowLabel="[true]"
+                rowFocusAnimationStyle="floatingfocus"
+            />
+        </children>
+</component>
