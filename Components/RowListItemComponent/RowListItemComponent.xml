@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="RowListItemComponent" extends="Group">
+    <script type="text/brightscript" uri="ComponentName.brs" xsi:noNamespacesSchemaLocation="https://devtools.web.roku.com/schema/RokuScenegraph.xsd"/>
+    <interface>
+        <field id="itemContent" type="node" onChange="OnContentSet" />
+    </interface>
+    <script type="text/brightscript" uri="RowListItemComponent.brs" />
+    <children>
+        <!-- items configuration -->
+        <poster
+            id="poster"
+            loadDisplayMode="scaleToFit"
+            widht="320"
+            height="180"
+            loadWidht="320"
+            loadHeight="180"
+        />
+    </children>
+</component>
