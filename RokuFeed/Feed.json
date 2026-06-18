@@ -2,7 +2,7 @@
 	"providerName": "Goals World Cup",
 	"language": "en-US",
 	"Group A": [
-	{
+		{
 			"longDescription": "Mexico's squad for the 2026 World Cup represents a blend of experience, identity, and renewal. Led by Javier Aguirre, it brings together historical icons with a new generation of players, aiming for a historic performance on home soil. The team maintains its competitive style, intensity, and strong connection with its fans, with the goal of delivering a solid and dominant performance on home soil.",
 			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0rjO75E-ozuDEgAgy0scCVKLucMTY0YNlAuzceGw0tlb9HiriseR58I&s=10",
 			"releaseDate": "2026-11-10",
@@ -17,86 +17,95 @@
 			"title": "Mexico",
 			"content": {
 				"duration": 88,
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Videos/Mexico%20trailer.mp4",
-					"quality": "HD"
-				}],
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Videos/Mexico%20trailer.mp4",
+						"quality": "HD"
+					}
+				],
 				"language": "es-ES",
 				"dateAdded": "2026-06-18T02:39:11Z"
 			}
 		},
 		{
-			"longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using BrightScript, which is Roku's scripting language.",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/roku-overview.jpg",
+			"longDescription": "South Africa's selection for the 2026 World Cup represents speed, energy, and growth, with a team that seeks to compete at the highest level and leave its mark on the tournament.",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/South%20Africa.jpeg",
 			"releaseDate": "2020-01-15",
 			"genres": [
-				"educational"
+				"Trailer"
 			],
 			"tags": [
-				"getting-started"
+				"Presentation"
 			],
-			"id": "shortform-roku-development-overview",
-			"shortDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity",
-			"title": "Roku Development Overview",
+			"id": "South Africa",
+			"shortDescription": "South Africa's selection for the 2026 World Cup represents speed, energy, and growth, with a team that seeks to compete at the highest level and leave its mark on the tournament.",
+			"title": "South Africa",
 			"content": {
-				"duration": 248,
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-overview.mp4",
-					"quality": "HD"
-				}],
+				"duration": 185,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "",
+						"quality": "HD"
+					}
+				],
+				"language": "en-ES",
+				"dateAdded": "2026-6-18T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "South Korea arrives at the 2026 FIFA World Cup as one of Asia’s most established football nations, combining experienced leaders with a dynamic generation of talent. Led by coach Hong Myung-bo and captain Son Heung-min, the team is built around fast transitions, organized play, and creative attacking football",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/South%20Korea.jpeg",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "South korea",
+			"shortDescription": "South Korea’s national team enters the 2026 World Cup with speed, discipline, and technical quality, aiming to continue its strong football tradition on the world stage",
+			"title": "South Korea",
+			"content": {
+				"duration": 120,
+				"videos": [
+					{
+						"videoType": "DASH",
+						"url": "",
+						"quality": "HD"
+					}
+				],
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:11Z"
 			}
 		},
 		{
-			"longDescription": "Steps for enabling Developer Mode on a Roku device",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/enable-developer-mode-v1b.png",
+			"longDescription": "Czechia returns to the FIFA World Cup after 20 years, bringing a team built on organization, intensity, and collective play. Led by coach Miroslav Koubek and featuring players such as Patrik Schick and Tomáš Souček, the squad combines experienced leaders with emerging talent. Known for their physical presence, structured defense, and danger from set pieces, Czechia aims to reestablish itself and compete with Europe’s strongest football nations on the world stage",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/Czechia.jpeg",
 			"releaseDate": "2020-01-17",
 			"genres": [
-				"educational"
+				"Trailer"
 			],
 			"tags": [
-				"getting-started"
+				"Presentation"
 			],
-			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
-			"shortDescription": "Steps for enabling Developer Mode on a Roku device",
-			"title": "Enabling Developer Mode",
-			"content": {
-				"duration": 120,
-				"videos": [{
-					"videoType": "DASH",
-					"url": "https://ovp-selector.sr.roku.com/v1/12cdcf33-58e7-46a6-bbbf-cbb5c5fec500?format=dash",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
-		},
-			{
-			"longDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/images/VoiceFeatures.jpg",
-			"releaseDate": "2020-01-17",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"feature"
-			],
-			"id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
-			"shortDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-			"title": "Voice Features",
+			"id": "Czechia",
+			"shortDescription": "Czechia enters the 2026 World Cup with discipline, physical strength, and a balanced squad aiming to make a strong return to football’s biggest stage",
+			"title": "Czhechia",
 			"content": {
 				"duration": 98,
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v4.mp4",
-					"quality": "HD"
-				}],
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v4.mp4",
+						"quality": "HD"
+					}
+				],
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:12Z",
-				"captions": [{
+				"captions": [
+					{
 						"language": "en",
 						"captionType": "CLOSED_CAPTION",
 						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
@@ -110,78 +119,240 @@
 			}
 		}
 	],
-	"movies": [{
-			"longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a_1/images/roku-brightscript-network-debug-protocol.jpg",
-			"releaseDate": "2020-01-20",
+	"Group B": [
+		{
+			"longDescription": "Mexico's squad for the 2026 World Cup represents a blend of experience, identity, and renewal. Led by Javier Aguirre, it brings together historical icons with a new generation of players, aiming for a historic performance on home soil. The team maintains its competitive style, intensity, and strong connection with its fans, with the goal of delivering a solid and dominant performance on home soil.",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/Canada.jpeg",
+			"releaseDate": "2026-11-10",
 			"genres": [
-				"educational"
+				"Trailer"
 			],
 			"tags": [
-				"demo"
+				"Presentation"
 			],
-			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
-			"shortDescription": "Demonstrates the Roku Remote Debugger",
-			"title": "BrightScript debug protocol",
+			"id": "Canada",
+			"shortDescription": "Mexico's team for the 2026 World Cup combines experience and youth, seeking to represent its footballing identity and stand out as the tournament's host.",
+			"title": "Canada",
 			"content": {
-				"duration": 713,
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-brightscript-debug-protocol.mp4",
-					"quality": "HD"
-				}],
+				"duration": 88,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Videos/Mexico%20trailer.mp4",
+						"quality": "HD"
+					}
+				],
+				"language": "es-ES",
+				"dateAdded": "2026-06-18T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "South Africa's selection for the 2026 World Cup represents speed, energy, and growth, with a team that seeks to compete at the highest level and leave its mark on the tournament.",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/Bosnia%20and%20Herzegivinia.jpeg",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Bosnia and Herzegivinia",
+			"shortDescription": "South Africa's selection for the 2026 World Cup represents speed, energy, and growth, with a team that seeks to compete at the highest level and leave its mark on the tournament.",
+			"title": "Bosnia and Herzegivinia",
+			"content": {
+				"duration": 185,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "",
+						"quality": "HD"
+					}
+				],
+				"language": "en-ES",
+				"dateAdded": "2026-6-18T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "South Korea arrives at the 2026 FIFA World Cup as one of Asia’s most established football nations, combining experienced leaders with a dynamic generation of talent. Led by coach Hong Myung-bo and captain Son Heung-min, the team is built around fast transitions, organized play, and creative attacking football",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/Qatar.jpeg",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Qatar",
+			"shortDescription": "South Korea’s national team enters the 2026 World Cup with speed, discipline, and technical quality, aiming to continue its strong football tradition on the world stage",
+			"title": "Qatar",
+			"content": {
+				"duration": 120,
+				"videos": [
+					{
+						"videoType": "DASH",
+						"url": "",
+						"quality": "HD"
+					}
+				],
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:11Z"
 			}
 		},
 		{
-			"longDescription": "Video that demonstrates the Roku automated channel testing software. It provides a brief overview of the technology stack, and it shows how both the Roku WebDriver and Robot Framework Library can be used for state-driven channel UI automation testing.",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4374be10035077242dde8b7fe272e509ad6e563a_1/images/basicTestReport.jpg",
-			"releaseDate": "2020-01-20",
+			"longDescription": "Czechia returns to the FIFA World Cup after 20 years, bringing a team built on organization, intensity, and collective play. Led by coach Miroslav Koubek and featuring players such as Patrik Schick and Tomáš Souček, the squad combines experienced leaders with emerging talent. Known for their physical presence, structured defense, and danger from set pieces, Czechia aims to reestablish itself and compete with Europe’s strongest football nations on the world stage",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/Sitzerland.jpeg",
+			"releaseDate": "2020-01-17",
 			"genres": [
-				"educational"
+				"Trailer"
 			],
 			"tags": [
-				"demo"
+				"Presentation"
 			],
-			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
-			"shortDescription": "Demonstrates the Roku automated channel testing software.",
-			"title": "Automated channel testing",
+			"id": "Sitzerland",
+			"shortDescription": "Czechia enters the 2026 World Cup with discipline, physical strength, and a balanced squad aiming to make a strong return to football’s biggest stage",
+			"title": "Sitzerland",
 			"content": {
-				"duration": 713,
-				"videos": [{
-					"videoType": "HLS",
-					"url": "https://ovp-selector.sr.roku.com/v1/f73763a9-8105-4b78-90e0-381ea0d0128b?format=hls",
-					"quality": "HD"
-				}],
+				"duration": 98,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v4.mp4",
+						"quality": "HD"
+					}
+				],
 				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:10Z"
+				"dateAdded": "2020-01-29T02:39:12Z",
+				"captions": [
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
+					},
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
+					}
+				]
+			}
+		}
+	],
+	"Group C": [
+		{
+			"longDescription": "Mexico's squad for the 2026 World Cup represents a blend of experience, identity, and renewal. Led by Javier Aguirre, it brings together historical icons with a new generation of players, aiming for a historic performance on home soil. The team maintains its competitive style, intensity, and strong connection with its fans, with the goal of delivering a solid and dominant performance on home soil.",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/Morrocco.jpeg",
+			"releaseDate": "2026-11-10",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Morrocco",
+			"shortDescription": "Mexico's team for the 2026 World Cup combines experience and youth, seeking to represent its footballing identity and stand out as the tournament's host.",
+			"title": "Morrocco",
+			"content": {
+				"duration": 88,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Videos/Mexico%20trailer.mp4",
+						"quality": "HD"
+					}
+				],
+				"language": "es-ES",
+				"dateAdded": "2026-06-18T02:39:11Z"
 			}
 		},
 		{
-			"longDescription": "Video demonstrating how a developer can use the Developer Dashboard's user access management feature to give team members the authority to take administrative actions, which are appropriate for their respective organizational roles",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
-			"releaseDate": "2020-01-20",
+			"longDescription": "South Africa's selection for the 2026 World Cup represents speed, energy, and growth, with a team that seeks to compete at the highest level and leave its mark on the tournament.",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/Brazil.jpeg",
+			"releaseDate": "2020-01-15",
 			"genres": [
-				"educational"
+				"Trailer"
 			],
 			"tags": [
-				"demo"
+				"Presentation"
 			],
-			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
-			"shortDescription": "Demonstrates how a developer can use the Developer Dashboard's user access management feature",
-			"title": "Managing user access",
+			"id": "Brazil",
+			"shortDescription": "South Africa's selection for the 2026 World Cup represents speed, energy, and growth, with a team that seeks to compete at the highest level and leave its mark on the tournament.",
+			"title": "Brazil",
 			"content": {
-				"duration": 576,
-				"videos": [{
-					"videoType": "HLS",
-					"url": "https://ovp-selector.sr.roku.com/v1/0c18bf4e-b295-437c-badb-3a171a1b52aa?format=hls",
-					"quality": "HD"
-				}],
+				"duration": 185,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "",
+						"quality": "HD"
+					}
+				],
+				"language": "en-ES",
+				"dateAdded": "2026-6-18T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "South Korea arrives at the 2026 FIFA World Cup as one of Asia’s most established football nations, combining experienced leaders with a dynamic generation of talent. Led by coach Hong Myung-bo and captain Son Heung-min, the team is built around fast transitions, organized play, and creative attacking football",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/Haiti.jpeg",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Haiti",
+			"shortDescription": "South Korea’s national team enters the 2026 World Cup with speed, discipline, and technical quality, aiming to continue its strong football tradition on the world stage",
+			"title": "Haiti",
+			"content": {
+				"duration": 120,
+				"videos": [
+					{
+						"videoType": "DASH",
+						"url": "",
+						"quality": "HD"
+					}
+				],
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Czechia returns to the FIFA World Cup after 20 years, bringing a team built on organization, intensity, and collective play. Led by coach Miroslav Koubek and featuring players such as Patrik Schick and Tomáš Souček, the squad combines experienced leaders with emerging talent. Known for their physical presence, structured defense, and danger from set pieces, Czechia aims to reestablish itself and compete with Europe’s strongest football nations on the world stage",
+			"thumbnail": "",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Sitzerland",
+			"shortDescription": "Czechia enters the 2026 World Cup with discipline, physical strength, and a balanced squad aiming to make a strong return to football’s biggest stage",
+			"title": "Sitzerland",
+			"content": {
+				"duration": 98,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v4.mp4",
+						"quality": "HD"
+					}
+				],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:12Z",
+				"captions": [
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
+					},
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
+					}
+				]
 			}
 		}
 	]
-
 }
