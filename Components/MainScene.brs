@@ -4,6 +4,8 @@ sub Init()
     m.top.backgroundColor = "0x062593"
     m.top.backgroundUri = "pkg:/images/background.jpg"
     m.loadingIndicator = m.top.FindNode("loadingIndicator")
+    m.overhang = m.top.FindNode("overhang")
+    m.overhangTitle = m.top.FindNode("overhangTitle")
     InitScreenStack()
     ShowGridScreen()
     RunContentTask()
