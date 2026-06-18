@@ -5,7 +5,7 @@ sub init()
     'label with item description
     m.descriptionLabel = m.top.FindNode("descriptionLabel")
     'label with item Tittle
-    m.tittleLabel = m.top.FindNode("tittleLabel")
+    m.titleLabel = m.top.FindNode("titleLabel")
     'observe- rowItemFocused 
     m.rowList.ObserveField("rowItemFocused","OnItemFocused")
 end sub
@@ -14,22 +14,22 @@ sub OnItemFocused()
     'get the position of focused item in the row
     focusedIndex = m.rowList.rowItemFocused
     'get all items of the row
-    Row = m.rowList.content.Getchild(focusedIndex[0])
+    row = m.rowList.content.Getchild(focusedIndex[0])
     'get focused item
     item = row.Getchild(focusedIndex[1])
     'update description label with the descrition of focused item
     m.descriptionLabel.text = item.description
     'update tittle label with de tittle of focused item
-    m.descriptionLabel.text = item.description
+    m.titleLabel.text = item.title
     'adding lenght of playback to the title
     if item.length <> invalid
-        m.tittleLabel.text += " | " + GetTime(item.length)
+        m.titleLabel.text += " | " + GetTime(item.length)
     end if
 end sub
 
 function GetTime(length as Integer) as string
     minutes = ( length / 60).ToStr()
-    seconds=lenght MOD 60 
+    seconds=length MOD 60 
     if seconds < 60
         seconds = "0" + seconds.ToStr()
     else

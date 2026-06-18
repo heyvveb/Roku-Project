@@ -1,8 +1,8 @@
 sub RunContentTask()
     'Create task for feed retrieving
-    m.contentTask = CreateObject("roSGNode", "MainLoaderTask")
+    m.contentTask = CreateObject("roSGNode" , "MainLoaderTask")
     'observer content 
-    m.contentTask.Observerfield("conten","OnMainContentLoaded")
+    m.contentTask.ObserveField("content" , "OnMainContentLoaded")
     m.contentTask.control = "run"
     'Show loading indicator while content is loading
     m.loadingIndicator.visible = true
