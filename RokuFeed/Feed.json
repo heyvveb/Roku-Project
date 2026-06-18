@@ -1,29 +1,29 @@
 {
 	"providerName": "Goals World Cup",
 	"language": "en-US",
-	"shortFormVideos": [
+	"Group A": [
 	{
-			"longDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
-			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
-			"releaseDate": "2020-01-15",
+			"longDescription": "Mexico's squad for the 2026 World Cup represents a blend of experience, identity, and renewal. Led by Javier Aguirre, it brings together historical icons with a new generation of players, aiming for a historic performance on home soil. The team maintains its competitive style, intensity, and strong connection with its fans, with the goal of delivering a solid and dominant performance on home soil.",
+			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0rjO75E-ozuDEgAgy0scCVKLucMTY0YNlAuzceGw0tlb9HiriseR58I&s=10",
+			"releaseDate": "2026-11-10",
 			"genres": [
-				"educational"
+				"Trailer"
 			],
 			"tags": [
-				"getting-started"
+				"Presentation"
 			],
-			"id": "shortform-roku-streaming-overview",
-			"shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
-			"title": "Streaming overview",
+			"id": "Mexico",
+			"shortDescription": Mexico's team for the 2026 World Cup combines experience and youth, seeking to represent its footballing identity and stand out as the tournament's host.",
+			"title": "Mexico",
 			"content": {
-				"duration": 100,
+				"duration": 88,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
+					"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Videos/Mexico%20trailer.mp4",
 					"quality": "HD"
 				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-15T02:39:11Z"
+				"language": "es-ES",
+				"dateAdded": "2026-06-18T02:39:11Z"
 			}
 		},
 		{
