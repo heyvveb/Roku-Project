@@ -12,7 +12,9 @@ sub GetContent()
     rows = {}
     json = ParseJson(rsp)
     if json <> invalid
-        for each category in json
+        categories = json.Keys()
+        categories.Sort()
+        for each category in categories
             value= json.Lookup(category)
             'if parsed key value have other objets in
             if Type(value) = "roArray"
