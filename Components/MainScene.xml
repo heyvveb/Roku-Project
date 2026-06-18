@@ -11,8 +11,20 @@
             showOptions="false"
             showClock="false"
             logoUri="pkg:/images/hd_overhang_log.png"
-            translation="[0,0]"
+            translation="[-30,-10]"
+            color="0x062593"
+            height="150"
         />
+        <Label
+        id="overhangTitle"
+        text="FIFA WC 2026"
+        vertAlign="center"
+        translation="[180, -10]"
+        height="200"
+        width="600"
+        font= "font:LargeBoldSystemFont"
+        >
+        </Label>
         <!-- Loading indicator when waiting for content -->
         <label
             id="loadingIndicator"

@@ -18,7 +18,7 @@ sub ShowScreen(node as Object)
 end sub
 
 sub CloseScreen(node as Object)
-    if node = invalid OR id (m.screenStack.Peek() <> invalid and m.screenStack.Peek().IsSameNode(node))
+    if node = invalid OR (m.screenStack.Peek() <> invalid and m.screenStack.Peek().IsSameNode(node))
         'remove screen from screen stack
         last= m.screenStack.Pop()
         'hide screen
