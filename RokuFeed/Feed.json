@@ -20,7 +20,7 @@
 				"videos": [
 					{
 						"videoType": "MP4",
-						"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Videos/Mexico%20trailer.mp4",
+						"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Videos/Group%20A/Mexico/Mexico%20trailer.mp4",
 						"quality": "HD"
 					}
 				],
@@ -38,7 +38,7 @@
 			"tags": [
 				"Presentation"
 			],
-			"id": "South Africa",
+			"id": "South_Africa",
 			"shortDescription": "South Africa's selection for the 2026 World Cup represents speed, energy, and growth, with a team that seeks to compete at the highest level and leave its mark on the tournament.",
 			"title": "South Africa",
 			"content": {
@@ -46,7 +46,7 @@
 				"videos": [
 					{
 						"videoType": "MP4",
-						"url": "",
+						"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Videos/Group%20A/South%20Africa/South%20Africa%20Trailer.mp4",
 						"quality": "HD"
 					}
 				],
@@ -64,15 +64,15 @@
 			"tags": [
 				"Presentation"
 			],
-			"id": "South korea",
+			"id": "South_korea",
 			"shortDescription": "South Korea’s national team enters the 2026 World Cup with speed, discipline, and technical quality, aiming to continue its strong football tradition on the world stage",
 			"title": "South Korea",
 			"content": {
 				"duration": 120,
 				"videos": [
 					{
-						"videoType": "DASH",
-						"url": "",
+						"videoType": "MP$",
+						"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Videos/Group%20A/South%20Korea/South%20Korea%20Trailer.mp4",
 						"quality": "HD"
 					}
 				],
@@ -98,7 +98,7 @@
 				"videos": [
 					{
 						"videoType": "MP4",
-						"url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v4.mp4",
+						"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Videos/Group%20A/Czechia/Czechia%20Trailer.mp4",
 						"quality": "HD"
 					}
 				],
@@ -121,7 +121,7 @@
 	],
 	"Group B": [
 		{
-			"longDescription": "Mexico's squad for the 2026 World Cup represents a blend of experience, identity, and renewal. Led by Javier Aguirre, it brings together historical icons with a new generation of players, aiming for a historic performance on home soil. The team maintains its competitive style, intensity, and strong connection with its fans, with the goal of delivering a solid and dominant performance on home soil.",
+			"longDescription": "Canada arrives at the 2026 FIFA World Cup with rising expectations as one of the host nations and a team in clear growth. Led by stars like Alphonso Davies and Jonathan David, the squad blends pace, athleticism, and attacking ambition with a developing tactical structure. After years of rebuilding, Canada looks to prove itself against top international competition and take advantage of playing in front of home supporters across North America",
 			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/Canada.jpeg",
 			"releaseDate": "2026-11-10",
 			"genres": [
@@ -131,7 +131,7 @@
 				"Presentation"
 			],
 			"id": "Canada",
-			"shortDescription": "Mexico's team for the 2026 World Cup combines experience and youth, seeking to represent its footballing identity and stand out as the tournament's host.",
+			"shortDescription": "Canada’s national team enters the 2026 World Cup as a fast, energetic, and improving squad aiming to make a strong impact at home on the biggest stage",
 			"title": "Canada",
 			"content": {
 				"duration": 88,
@@ -147,7 +147,7 @@
 			}
 		},
 		{
-			"longDescription": "South Africa's selection for the 2026 World Cup represents speed, energy, and growth, with a team that seeks to compete at the highest level and leave its mark on the tournament.",
+			"longDescription": "Bosnia and Herzegovina enter the 2026 FIFA World Cup with a squad that blends veteran leadership and emerging talent. Known for their physical style, strong mentality, and reliance on key experienced players, the team seeks to make a memorable impact in a highly competitive group. With a football culture built on resilience, Bosnia aims to challenge stronger opponents and fight for every opportunity in the tournament",
 			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/Bosnia%20and%20Herzegivinia.jpeg",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -156,8 +156,8 @@
 			"tags": [
 				"Presentation"
 			],
-			"id": "Bosnia and Herzegivinia",
-			"shortDescription": "South Africa's selection for the 2026 World Cup represents speed, energy, and growth, with a team that seeks to compete at the highest level and leave its mark on the tournament.",
+			"id": "Bosnia_and_Herzegivinia",
+			"shortDescription": "Bosnia and Herzegovina’s national team arrives at the 2026 World Cup with experience and determination, aiming to compete strongly despite being underdogs on the global stage",
 			"title": "Bosnia and Herzegivinia",
 			"content": {
 				"duration": 185,
@@ -173,7 +173,7 @@
 			}
 		},
 		{
-			"longDescription": "South Korea arrives at the 2026 FIFA World Cup as one of Asia’s most established football nations, combining experienced leaders with a dynamic generation of talent. Led by coach Hong Myung-bo and captain Son Heung-min, the team is built around fast transitions, organized play, and creative attacking football",
+			"longDescription": "Qatar comes into the 2026 FIFA World Cup looking to build on its recent development as a football nation. Led by experienced coach Julen Lopetegui and key players such as Akram Afif and Almoez Ali, the squad blends technical skill with disciplined organization. While still considered an emerging team globally, Qatar aims to show improvement, compete strongly in its group, and establish a more competitive identity on the world stage",
 			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/Qatar.jpeg",
 			"releaseDate": "2020-01-17",
 			"genres": [
@@ -183,7 +183,7 @@
 				"Presentation"
 			],
 			"id": "Qatar",
-			"shortDescription": "South Korea’s national team enters the 2026 World Cup with speed, discipline, and technical quality, aiming to continue its strong football tradition on the world stage",
+			"shortDescription": "Qatar’s national team enters the 2026 World Cup with ambition and experience, aiming to prove progress and compete more consistently on the international stage",
 			"title": "Qatar",
 			"content": {
 				"duration": 120,
@@ -199,7 +199,7 @@
 			}
 		},
 		{
-			"longDescription": "Czechia returns to the FIFA World Cup after 20 years, bringing a team built on organization, intensity, and collective play. Led by coach Miroslav Koubek and featuring players such as Patrik Schick and Tomáš Souček, the squad combines experienced leaders with emerging talent. Known for their physical presence, structured defense, and danger from set pieces, Czechia aims to reestablish itself and compete with Europe’s strongest football nations on the world stage",
+			"longDescription": "Switzerland arrives at the 2026 FIFA World Cup as a consistent European contender known for tactical structure, defensive solidity, and efficient teamwork. With a mix of experienced leaders like Granit Xhaka and attacking talent such as Xherdan Shaqiri, the team relies on discipline and collective play rather than individual stars. Their goal is to advance deep into the tournament by maintaining stability, capitalizing on set pieces, and competing evenly against stronger opponents",
 			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/Sitzerland.jpeg",
 			"releaseDate": "2020-01-17",
 			"genres": [
@@ -209,7 +209,7 @@
 				"Presentation"
 			],
 			"id": "Sitzerland",
-			"shortDescription": "Czechia enters the 2026 World Cup with discipline, physical strength, and a balanced squad aiming to make a strong return to football’s biggest stage",
+			"shortDescription": "Switzerland’s national team enters the 2026 World Cup with discipline, organization, and a balanced squad capable of competing against top teams",
 			"title": "Sitzerland",
 			"content": {
 				"duration": 98,
@@ -239,7 +239,7 @@
 	],
 	"Group C": [
 		{
-			"longDescription": "Mexico's squad for the 2026 World Cup represents a blend of experience, identity, and renewal. Led by Javier Aguirre, it brings together historical icons with a new generation of players, aiming for a historic performance on home soil. The team maintains its competitive style, intensity, and strong connection with its fans, with the goal of delivering a solid and dominant performance on home soil.",
+			"longDescription": "Morocco comes into the 2026 FIFA World Cup as one of Africa’s most respected teams, known for its solid defense, tactical discipline, and fast attacking transitions. With stars like Achraf Hakimi and a well-organized squad, Morocco combines European-based experience with strong team cohesion. After impressive recent tournament performances, the team aims to continue its rise and compete for a deep run in the competition",
 			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/Morrocco.jpeg",
 			"releaseDate": "2026-11-10",
 			"genres": [
@@ -249,7 +249,7 @@
 				"Presentation"
 			],
 			"id": "Morrocco",
-			"shortDescription": "Mexico's team for the 2026 World Cup combines experience and youth, seeking to represent its footballing identity and stand out as the tournament's host.",
+			"shortDescription": "Morocco’s national team enters the 2026 World Cup as a strong, disciplined side with high expectations after recent international success",
 			"title": "Morrocco",
 			"content": {
 				"duration": 88,
@@ -265,7 +265,7 @@
 			}
 		},
 		{
-			"longDescription": "South Africa's selection for the 2026 World Cup represents speed, energy, and growth, with a team that seeks to compete at the highest level and leave its mark on the tournament.",
+			"longDescription": "Brazil arrives at the 2026 FIFA World Cup with high expectations, carrying its historic reputation as one of the most successful teams in football. Led by a new generation of stars like Vinícius Jr., Rodrygo, and other elite European-based players, the team combines technical skill, flair, and attacking power. With a tradition of winning and entertaining football, Brazil aims to compete for the title and continue its legacy on the global stage",
 			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/Brazil.jpeg",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -275,7 +275,7 @@
 				"Presentation"
 			],
 			"id": "Brazil",
-			"shortDescription": "South Africa's selection for the 2026 World Cup represents speed, energy, and growth, with a team that seeks to compete at the highest level and leave its mark on the tournament.",
+			"shortDescription": "Brazil enters the 2026 World Cup as one of the strongest favorites, known for its attacking talent, creativity, and footballing tradition",
 			"title": "Brazil",
 			"content": {
 				"duration": 185,
@@ -291,7 +291,7 @@
 			}
 		},
 		{
-			"longDescription": "South Korea arrives at the 2026 FIFA World Cup as one of Asia’s most established football nations, combining experienced leaders with a dynamic generation of talent. Led by coach Hong Myung-bo and captain Son Heung-min, the team is built around fast transitions, organized play, and creative attacking football",
+			"longDescription": "Haiti arrives at the 2026 FIFA World Cup as one of the tournament’s most resilient underdog stories. The team is built on pace, physical effort, and collective fighting spirit rather than individual stars. With a squad that reflects both local talent and diaspora players, Haiti focuses on discipline and unity to compete against stronger nations. Their goal is to gain experience, represent their country with pride, and potentially surprise opponents through intensity and teamwork",
 			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Images/Haiti.jpeg",
 			"releaseDate": "2020-01-17",
 			"genres": [
@@ -301,7 +301,7 @@
 				"Presentation"
 			],
 			"id": "Haiti",
-			"shortDescription": "South Korea’s national team enters the 2026 World Cup with speed, discipline, and technical quality, aiming to continue its strong football tradition on the world stage",
+			"shortDescription": "Haiti enters the 2026 World Cup as an underdog team with strong spirit, aiming to compete with energy and determination on the world stage",
 			"title": "Haiti",
 			"content": {
 				"duration": 120,
@@ -317,7 +317,7 @@
 			}
 		},
 		{
-			"longDescription": "Czechia returns to the FIFA World Cup after 20 years, bringing a team built on organization, intensity, and collective play. Led by coach Miroslav Koubek and featuring players such as Patrik Schick and Tomáš Souček, the squad combines experienced leaders with emerging talent. Known for their physical presence, structured defense, and danger from set pieces, Czechia aims to reestablish itself and compete with Europe’s strongest football nations on the world stage",
+			"longDescription": "Scotland arrives at the 2026 FIFA World Cup as a determined European side known for its intensity, physical strength, and collective spirit. With leaders like Andy Robertson and a squad built on hard work and organization, the team focuses on discipline and unity rather than individual flair. Their goal is to challenge stronger nations, stay competitive in every match, and make a strong impact through effort and teamwork",
 			"thumbnail": "",
 			"releaseDate": "2020-01-17",
 			"genres": [
@@ -326,9 +326,9 @@
 			"tags": [
 				"Presentation"
 			],
-			"id": "Sitzerland",
-			"shortDescription": "Czechia enters the 2026 World Cup with discipline, physical strength, and a balanced squad aiming to make a strong return to football’s biggest stage",
-			"title": "Sitzerland",
+			"id": "Scotland",
+			"shortDescription": "Scotland enters the 2026 World Cup with passion, teamwork, and a strong defensive identity, aiming to compete hard on the international stage",
+			"title": "Scotland",
 			"content": {
 				"duration": 98,
 				"videos": [
@@ -340,6 +340,1068 @@
 				],
 				"language": "en-us",
 				"dateAdded": "2020-01-29T02:39:12Z",
+				"captions": [
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
+					},
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
+					}
+				]
+			}
+		}
+	],
+	"Group D": [
+		{
+			"longDescription": "The United States arrives at the 2026 FIFA World Cup as one of the host nations and a team in rapid development. Built around a new generation of talent led by players like Christian Pulisic and other European-based stars, the squad emphasizes speed, pressing, and physical intensity. With strong home support and growing international experience, the USA aims to make its best-ever World Cup run and establish itself as a consistent football power",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "United_States",
+			"shortDescription": "The United States enters the 2026 World Cup with ambition, athleticism, and a young dynamic squad aiming to compete strongly at home",
+			"title": "United States",
+			"content": {
+				"duration": 151,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "",
+						"quality": "HD"
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Paraguay arrives at the 2026 FIFA World Cup with a squad built on intensity, defensive organization, and collective effort. Known for its tough and competitive football identity, the team blends experienced players with young talent emerging from South America. Led by promising attacking figures like Julio Enciso, Paraguay focuses on discipline, counterattacks, and resilience. Their goal is to be difficult to beat and to take advantage of every opportunity in a highly competitive group",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Paraguay",
+			"shortDescription": "Paraguay enters the 2026 World Cup with a hardworking and physical style, aiming to compete strongly and surprise stronger teams",
+			"title": "Paraguay",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "MP4",
+						"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Videos/Group%20D/Paraguay/Paraguay%20Trailer.mp4",
+						"quality": "HD"
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Australia arrives at the 2026 FIFA World Cup as a well-organized and hard-working team known for its defensive structure and collective spirit. With a mix of experienced players and emerging talent, the squad focuses on discipline, physical intensity, and quick transitions. Under pressure against stronger opponents, Australia relies on unity and effort, aiming to progress beyond the group stage and continue its steady growth in international football",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				""
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Australia",
+			"shortDescription": "Australia enters the 2026 World Cup with discipline, teamwork, and resilience, aiming to compete strongly against higher-ranked teams",
+			"title": "Australia",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Turkey arrives at the 2026 FIFA World Cup with a promising generation of players combining skill, creativity, and competitive intensity. Led by experienced figures like Hakan Çalhanoğlu and supported by emerging talents playing in top European leagues, the team blends technical ability with strong attacking potential. Known for passionate performances and unpredictable moments, Turkey aims to advance deep into the tournament by balancing discipline with offensive creativity",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Turkiey",
+			"shortDescription": "Turkey enters the 2026 World Cup with ambition, technical quality, and a young talented squad aiming to make a strong impact",
+			"title": "Turkiey",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": "",
+				"captions": [
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
+					},
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
+					}
+				]
+			}
+		}
+	],
+	"Group E": [
+		{
+			"longDescription": "Germany arrives at the 2026 FIFA World Cup with strong expectations after rebuilding its squad around a mix of youth and experience. Under coach Julian Nagelsmann, the team features elite talents like Jamal Musiala, Florian Wirtz, Joshua Kimmich, and Kai Havertz. Known for tactical discipline, high pressing, and technical quality, Germany looks more balanced than in recent tournaments. After disappointing exits in 2018 and 2022, the team is aiming to reestablish itself as a serious contender for the World Cup title",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Germany",
+			"shortDescription": "Germany enters the 2026 World Cup as a renewed powerhouse, blending experienced leaders with a talented new generation aiming for another title run",
+			"title": "Germany",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Curaçao arrives at the 2026 FIFA World Cup as one of the tournament’s smaller nations, but with a growing football identity. The team is built around organization, defensive effort, and players from both local leagues and the European diaspora. While not a traditional powerhouse, Curaçao aims to compete with intensity, gain experience at the highest level, and represent Caribbean football with pride against stronger opponents",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Curaçao",
+			"shortDescription": "Curaçao enters the 2026 World Cup as a small but ambitious team, focused on discipline, teamwork, and growth on the international stage",
+			"title": "Curaçao",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Ivory Coast arrives at the 2026 FIFA World Cup with a competitive squad built on athleticism, technical ability, and rising confidence on the international stage. With key players like Sébastien Haller and a mix of Europe-based talent, the team blends strength and attacking quality. Known for their physical presence and fast transitions, Ivory Coast aims to be a tough opponent and push for a strong run in the tournament",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				""
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Ivory Coast",
+			"shortDescription": "Ivory Coast enters the 2026 World Cup as a strong African side, combining physical power, talent, and growing international experience",
+			"title": "Ivory Coast",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Ecuador arrives at the 2026 FIFA World Cup with a dynamic team built around athleticism, discipline, and rapid transitions. Led by experienced striker Enner Valencia and supported by a new generation of players, the squad combines defensive strength with fast attacking play. Known for their intensity and high energy, Ecuador aims to challenge stronger opponents and continue establishing itself as a competitive South American side on the world stage",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Ecuador",
+			"shortDescription": "Ecuador enters the 2026 World Cup with speed, physical intensity, and a young energetic squad aiming to compete strongly in every match",
+			"title": "Ecuador",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": "",
+				"captions": [
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
+					},
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
+					}
+				]
+			}
+		}
+	],
+	"Group F": [
+		{
+			"longDescription": "The Netherlands arrives at the 2026 FIFA World Cup with a well-balanced squad combining experienced leaders and elite young talent. Led by players like Virgil van Dijk, Frenkie de Jong, and Cody Gakpo, the team is known for possession-based football, structured buildup, and tactical intelligence. After several strong international performances in recent tournaments, the Netherlands aims to push deep into the competition and compete for the title with consistency and control",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Netherlands",
+			"shortDescription": "The Netherlands enters the 2026 World Cup as a tactical and disciplined European side with strong defensive structure and attacking quality",
+			"title": "Netherlands",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Japan arrives at the 2026 FIFA World Cup as one of Asia’s most consistent and well-organized national teams. Built on tactical discipline, quick passing, and high work rate, the squad blends experienced leaders with exciting young talent playing in top European leagues. With players like Takefusa Kubo and others forming a dynamic core, Japan focuses on teamwork, precision, and intensity. Their goal is to continue improving on previous World Cup performances and push deeper into the tournament",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Japan",
+			"shortDescription": "Japan enters the 2026 World Cup as a disciplined and technically strong team with growing global respect and high expectations",
+			"title": "Japan",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Sweden arrives at the 2026 FIFA World Cup with a structured and competitive team built on organization, defensive stability, and quick attacking transitions. With key players such as Alexander Isak leading the attack and a solid core across Europe’s top leagues, the squad relies on discipline and collective effort. Sweden aims to maximize efficiency in matches, stay defensively strong, and take advantage of key moments to progress in the tournamen",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				""
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Sweden",
+			"shortDescription": "Sweden enters the 2026 World Cup with a balanced, disciplined squad focused on teamwork, physical strength, and efficiency in attack",
+			"title": "Sweden",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Tunisia arrives at the 2026 FIFA World Cup as a well-structured African side known for its defensive discipline and tactical organization. The team relies on collective effort, compact defending, and quick counterattacks rather than individual brilliance. With experienced players like Wahbi Khazri alongside younger talent, Tunisia aims to stay hard to break down, compete strongly in tight matches, and fight for qualification beyond the group stage",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Tunisia",
+			"shortDescription": "Tunisia enters the 2026 World Cup with discipline, defensive strength, and a compact team focused on organization and resilience",
+			"title": "Tunisia",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": "",
+				"captions": [
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
+					},
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
+					}
+				]
+			}
+		}
+	],
+	"Group G": [
+		{
+			"longDescription": "Belgium arrives at the 2026 FIFA World Cup with a generation that combines veteran leadership and emerging talent. Led by experienced players like Kevin De Bruyne and supported by a new wave of attackers and midfielders, the team is known for its technical skill, structured possession play, and tactical intelligence. After years of being considered a “golden generation,” Belgium’s goal is to convert experience into results and compete seriously for the title in what could be a defining tournament for many of its key players",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Belgium",
+			"shortDescription": "Belgium enters the 2026 World Cup with experience, technical quality, and a balanced squad aiming for a strong final run in a major tournament",
+			"title": "Belgium",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Egypt arrives at the 2026 FIFA World Cup as one of Africa’s most recognizable teams, built around leadership, experience, and attacking quality. With Mohamed Salah as the central figure, the squad relies on creativity, speed, and decisive finishing in attack. Supporting him is a mix of experienced internationals and younger talents aiming to compete at the highest level. Egypt’s goal is to stay organized, be dangerous in transition, and push beyond the group stage with consistency and discipline",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Egypt",
+			"shortDescription": "Egypt enters the 2026 World Cup with experience, star power, and a strong attacking threat led by Mohamed Salah",
+			"title": "Egypt",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Iran arrives at the 2026 FIFA World Cup with a structured and experienced squad led by coach Amir Ghalenoei. The team is known for its compact defensive shape, physical intensity, and dangerous counterattacks. In attack, Mehdi Taremi remains the key figure, providing goals and creativity at the highest level. Despite external challenges around preparation, Iran’s goal is to stay solid defensively, compete strongly in Group G, and aim for a historic breakthrough into the knockout stages",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				""
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Iran",
+			"shortDescription": "Iran enters the 2026 World Cup as a disciplined and competitive Asian side, built on tactical organization and strong attacking leadership",
+			"title": "Iran",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "New Zealand arrives at the 2026 FIFA World Cup as one of Oceania’s representatives, known for its organized defensive structure and hardworking mentality. The team is built around collective effort rather than individual stars, with experienced players like Chris Wood providing leadership in attack. Their approach focuses on staying compact, competing physically, and taking advantage of set pieces and counterattacks. The main goal is to gain experience at the highest level and represent Oceania football with pride",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "New_Zealand",
+			"shortDescription": "New Zealand enters the 2026 World Cup as a determined underdog, relying on discipline, physical strength, and strong team unity",
+			"title": "New Zealand",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": "",
+				"captions": [
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
+					},
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
+					}
+				]
+			}
+		}
+	],
+	"Group H": [
+		{
+			"longDescription": "Spain arrives at the 2026 FIFA World Cup with a renewed generation built around elite technical talent and tactical control. The team focuses on possession football, intelligent movement, and high pressing when out of possession. With emerging stars like Lamine Yamal alongside experienced midfield and defensive leaders, Spain combines creativity with structure. Their goal is to dominate matches through control of the ball and compete for the title with consistency and depth",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Spain",
+			"shortDescription": "Spain enters the 2026 World Cup as a technical and possession-based powerhouse with a young, highly skilled squad",
+			"title": "Spain",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Cape Verde arrives at the 2026 FIFA World Cup as one of the smallest nations in the tournament, but with a strong identity built on discipline and unity. The team relies on compact defending, collective effort, and players with experience in international leagues. Without major global stars, Cape Verde focuses on organization and fighting spirit, aiming to stay competitive and represent African island football with pride on the world stage",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Cape_Verde",
+			"shortDescription": "Cape Verde enters the 2026 World Cup as a determined underdog, known for teamwork, resilience, and strong defensive organization",
+			"title": "Cape Verde",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Saudi Arabia arrives at the 2026 FIFA World Cup with a structured and disciplined team built around defensive organization and quick counterattacks. The squad combines domestic league players with international experience, relying on cohesion and tactical awareness rather than individual stars. With leaders like Salem Al-Dawsari providing creativity and experience, Saudi Arabia aims to stay competitive in tight matches and fight for progression beyond the group stage",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				""
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Saudi Arabia",
+			"shortDescription": "Saudi Arabia enters the 2026 World Cup with tactical discipline and a compact style, aiming to compete strongly through organization and teamwork",
+			"title": "Saudi Arabia",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Uruguay arrives at the 2026 FIFA World Cup with a squad that blends historic football identity with modern intensity. Known for its fighting spirit and defensive solidity, the team also has high-quality midfield and attacking talent led by players like Federico Valverde and experienced forwards. Uruguay’s style is compact, physical, and fast in transition, making them dangerous against any opponent. Their goal is to combine tradition with efficiency and push deep into the knockout stages",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Uruguay",
+			"shortDescription": "Uruguay enters the 2026 World Cup with a strong, aggressive playing style built on tradition, intensity, and world-class midfield talent",
+			"title": "Uruguay",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": "",
+				"captions": [
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
+					},
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
+					}
+				]
+			}
+		}
+	],
+	"Group I": [
+		{
+			"longDescription": "France arrives at the 2026 FIFA World Cup as a global powerhouse with one of the deepest squads in the tournament. Led by stars like Kylian Mbappé and supported by world-class talent across every position, the team blends speed, technique, and tactical flexibility. Under a modern, structured system, France is capable of both dominant attacking play and solid defensive organization. With recent success in major tournaments, the objective is clear: compete for the title and maintain its status among the elite of world footbal",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "France",
+			"shortDescription": "France enters the 2026 World Cup as one of the top favorites, combining elite talent, depth, and modern attacking football",
+			"title": "France",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Senegal arrives at the 2026 FIFA World Cup with a highly competitive squad built on athleticism, defensive strength, and fast transitions. Led by experienced stars like Sadio Mané, the team combines European-based talent with strong cohesion and tactical discipline. Senegal has established itself as a serious contender in African and global football, aiming to be solid defensively while remaining dangerous in attack. Their goal is to advance deep into the tournament and compete with the world’s elite",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Senegal",
+			"shortDescription": "Senegal enters the 2026 World Cup as one of Africa’s strongest teams, known for physical power, discipline, and attacking talent",
+			"title": "Senegal",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Iraq arrives at the 2026 FIFA World Cup with a hardworking and structured squad built on tactical discipline and collective effort. The team is known for its compact defensive shape and strong mentality in high-pressure matches. While not relying on global superstars, Iraq depends on teamwork, physical intensity, and quick transitions to stay competitive. Their objective is to gain experience at the highest level and challenge stronger teams through organization and determination",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				""
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Iraq",
+			"shortDescription": "Iraq enters the 2026 World Cup as a disciplined and resilient team, focused on organization, defensive strength, and counterattacks",
+			"title": "Iraq",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Norway arrives at the 2026 FIFA World Cup with one of its most promising generations in years. Led by global star Erling Haaland and supported by players like Martin Ødegaard, the team combines elite finishing, creativity, and physical strength. Norway’s style focuses on quick vertical attacks, disciplined defending, and maximizing the impact of its key players. With growing confidence on the international stage, the team aims to compete seriously and challenge for a deep run in the tournament",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Norway",
+			"shortDescription": "Norway enters the 2026 World Cup as a powerful and dangerous attacking team led by world-class talent and strong physical play",
+			"title": "Norway",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": "",
+				"captions": [
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
+					},
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
+					}
+				]
+			}
+		}
+	],
+	"Group J": [
+		{
+			"longDescription": "Argentina arrives at the 2026 FIFA World Cup as one of the main favorites after recent international success. The team is built on a strong collective identity, tactical discipline, and world-class talent across all lines. With leaders like Lionel Messi (if still active in the squad) and a strong new generation of players, Argentina blends experience with youth. Their style is competitive, intense, and adaptable, with a focus on control, pressing, and decisive attacking moments. The goal is to defend their status among the world’s elite and compete again for the title",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Argentina",
+			"shortDescription": "Argentina enters the 2026 World Cup as a defending powerhouse, combining elite talent, strong teamwork, and winning mentality",
+			"title": "Argentina",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Algeria arrives at the 2026 FIFA World Cup with a competitive squad built around technical skill, tactical discipline, and experienced leadership. The team is often led by creative players like Riyad Mahrez, supported by a solid mix of European-based talent and local league standouts. Algeria’s style focuses on ball control, quick combinations, and organized defending. Their goal is to compete strongly in the group stage and push for a deeper run by leveraging experience and attacking quality",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Algeria",
+			"shortDescription": "Algeria enters the 2026 World Cup as a strong African side, combining technical quality, experience, and attacking creativity",
+			"title": "Algeria",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Australia arrives at the 2026 FIFA World Cup with a structured and hardworking squad built on collective effort and tactical discipline. The team emphasizes defensive organization, physical intensity, and quick transitions into attack. With a mix of experienced internationals and younger talents, Australia relies more on unity than individual stars. Their goal is to stay compact, compete strongly in every match, and look for opportunities to advance from the group stage",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				""
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Austria",
+			"shortDescription": "Australia enters the 2026 World Cup as a disciplined and physical team, known for teamwork, resilience, and strong defensive organization",
+			"title": "Austria",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Jordan arrives at the 2026 FIFA World Cup with a compact and disciplined squad built on collective effort and tactical structure. The team is known for defensive organization, strong mentality, and quick transitions in attack. With key players like Musa Al-Taamari providing creativity and pace, Jordan looks to stay competitive against stronger opponents. Their main objective is to remain solid defensively, exploit counterattacks, and gain valuable experience on the world stage",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Jordan",
+			"shortDescription": "Jordan enters the 2026 World Cup as a disciplined underdog, relying on organization, teamwork, and counterattacking strength",
+			"title": "Jordan",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": "",
+				"captions": [
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
+					},
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
+					}
+				]
+			}
+		}
+	],
+	"Group K": [
+		{
+			"longDescription": "Portugal arrives at the 2026 FIFA World Cup with one of its most complete squads in years, combining technical brilliance, depth, and tactical flexibility. The team is led by a mix of experienced stars like Cristiano Ronaldo (if still part of the squad) and a new generation of elite players such as Bruno Fernandes, Bernardo Silva, and others. Portugal’s style is built on creativity, ball control, and strong attacking combinations, supported by an increasingly solid defensive structure. Their ambition is to compete at the highest level and seriously challenge for the World Cup title",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Portugal",
+			"shortDescription": "Portugal enters the 2026 World Cup as a top contender with a highly skilled squad, blending elite attacking talent and strong midfield control",
+			"title": "Portugal",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "The Democratic Republic of the Congo arrives at the 2026 FIFA World Cup with a squad built on athleticism, intensity, and collective effort. The team often relies on strong defensive organization and quick transitions rather than possession dominance. With European-based players providing experience and pace in attack, DR Congo aims to stay compact, frustrate stronger opponents, and create chances through fast breaks. Their goal is to compete with determination and make a strong impression on the world stage",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Democratic_Republic_of_the_Congo",
+			"shortDescription": "DR Congo enters the 2026 World Cup as a physically strong and motivated underdog, focused on discipline, energy, and counterattacking play",
+			"title": "Democratic Republic of the Congo",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Uzbekistan arrives at the 2026 FIFA World Cup with a developing and ambitious squad aiming to establish itself on the global stage. The team is built around organization, collective effort, and a growing number of players gaining experience in stronger international leagues. With attackers like Eldor Shomurodov providing leadership, Uzbekistan relies on structure, discipline, and quick transitions. Their main objective is to compete respectably, gain experience, and continue the rapid growth of their football program",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Uzbekistan",
+			"shortDescription": "Uzbekistan enters the 2026 World Cup as a rising Asian team, focused on discipline, teamwork, and improving international competitiveness",
+			"title": "Uzbekistan",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Colombia arrives at the 2026 FIFA World Cup with a balanced and exciting squad built around technical skill, speed, and attacking creativity. The team combines experienced leaders with a new generation of talent, capable of playing both possession-based football and fast counterattacks. With players like James Rodríguez providing experience and vision, Colombia aims to control games through midfield creativity and aggressive attacking transitions. Their objective is to compete at a high level and push deep into the tournament",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Colombia",
+			"shortDescription": "Colombia enters the 2026 World Cup as a dynamic South American team known for creativity, intensity, and strong attacking talent",
+			"title": "Colombia",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": "",
+				"captions": [
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
+					},
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
+					}
+				]
+			}
+		}
+	],
+	"Group L": [
+		{
+			"longDescription": "England arrives at the 2026 FIFA World Cup with a highly competitive squad combining experience, youth, and elite Premier League quality. The team is built around tactical flexibility, strong attacking options, and physical intensity. With leaders like Harry Kane and a deep supporting cast across midfield and defense, England has the tools to control matches and adapt to different opponents. Their main objective is to turn consistent tournament performances into a World Cup title challenge",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "England",
+			"shortDescription": "England enters the 2026 World Cup as one of the top contenders, with a strong, balanced squad full of attacking talent and depth",
+			"title": "England",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Croatia arrives at the 2026 FIFA World Cup with a strong football identity built on tactical discipline, experience, and midfield excellence. Even as veteran players age, the team maintains its competitive edge through structure, teamwork, and game intelligence. With leaders like Luka Modrić and a new generation supporting him, Croatia remains dangerous in tight matches. Their style focuses on controlling the midfield, staying compact defensively, and maximizing efficiency in key moments",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Croatia",
+			"shortDescription": "Croatia enters the 2026 World Cup as a disciplined and experienced team, known for resilience, midfield control, and tournament consistency",
+			"title": "Croatia",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Ghana arrives at the 2026 FIFA World Cup with a dynamic squad built on pace, strength, and attacking creativity. The team is known for its energetic style, quick transitions, and fearless approach against stronger opponents. With a mix of European-based players and emerging talents, Ghana relies on intensity, pressing, and direct attacking play. Their goal is to compete strongly in the group stage and use their athletic advantage to challenge any opponent",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				""
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Ghana",
+			"shortDescription": "Ghana enters the 2026 World Cup as a fast, physical, and unpredictable African team with strong attacking potential",
+			"title": "Ghana",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": ""
+			}
+		},
+		{
+			"longDescription": "Panama arrives at the 2026 FIFA World Cup with a hardworking squad built on structure, discipline, and collective effort. The team is known for staying compact defensively and relying on fast transitions to create scoring chances. With a mix of experienced players and emerging talents, Panama aims to compete strongly despite being an underdog. Their main objective is to remain solid in defense, take advantage of set pieces, and fight for points in every match",
+			"thumbnail": "",
+			"releaseDate": "",
+			"genres": [
+				"Trailer"
+			],
+			"tags": [
+				"Presentation"
+			],
+			"id": "Panama",
+			"shortDescription": "Panama enters the 2026 World Cup as a compact and disciplined team, focused on defensive organization and quick counterattacks",
+			"title": "Panama",
+			"content": {
+				"duration": 0,
+				"videos": [
+					{
+						"videoType": "",
+						"url": "",
+						"quality": ""
+					}
+				],
+				"language": "",
+				"dateAdded": "",
 				"captions": [
 					{
 						"language": "en",
