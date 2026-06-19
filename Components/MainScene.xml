@@ -12,7 +12,7 @@
             showClock="false"
             logoUri="pkg:/images/hd_overhang_log.png"
             translation="[-30,-10]"
-            color="0x062593"
+            color="0x171a14"
             height="150"
         />
         <Label
