@@ -10,3 +10,21 @@ sub Init()
     ShowGridScreen()
     RunContentTask()
 end sub
+
+'Funtion that recibes events of remote control
+function OnKeyEvent(key as String, press as Boolean) as boolean
+    result= false
+    if press
+        'Back key press
+        if key = "back"
+            numberOfScreens=m.screenStack.Count()
+            'Close top screen if there are two or more screen in the stack
+            if numberOfScreens>1
+                CloseScreen(invalid)
+                result=true
+            end if
+        end if
+    end if
+    'Return true if component handled the event
+    return result
+end function
