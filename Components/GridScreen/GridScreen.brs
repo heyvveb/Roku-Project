@@ -4,10 +4,19 @@ sub init()
     m.rowList.SetFocus(true)
     'label with item description
     m.descriptionLabel = m.top.FindNode("descriptionLabel")
+    'observe visible field
+    m.top.ObserveField("visible","OnVisibleChange")
     'label with item Tittle
     m.titleLabel = m.top.FindNode("titleLabel")
     'observe- rowItemFocused 
     m.rowList.ObserveField("rowItemFocused","OnItemFocused")
+end sub
+
+sub OnVisibleChange()
+    if m.top.visible = true
+        'set focus in to RowList if gridScreen is visible
+        m.RowList.SetFocus(true)
+    end if
 end sub
 
 sub OnItemFocused()
