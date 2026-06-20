@@ -1,9 +1,9 @@
-sub ShowVideoScreen(content as object, itemIndex as integer)
+sub ShowVideoScreen(content as Object, itemIndex as Integer)
     'create a new instances of video node for each playback
     m.videoPlayer = CreateObject("roSGNode","Video")
     if itemIndex <> 0
         'Get number of row items
-        numOfChildren = content.GetChildrenCount()
+        numOfChildren = content.GetChildCount()
         'Populate children array with items started from selected one
         children = content.GetChildren(numOfChildren - itemIndex, itemIndex)
         childrenClone = []
@@ -12,7 +12,7 @@ sub ShowVideoScreen(content as object, itemIndex as integer)
             childrenClone.Push(child.Clone(false))
         end for
         'Create new parent node for cloned items
-        node= CreateObject("RoSGNode","ContentNode")
+        node= CreateObject("roSGNode","ContentNode")
         node.Update({children: childrenClone},true)
         m.videoPlayer.content = node
     else
@@ -46,6 +46,6 @@ sub OnVideoVisibleChange()
         m.videoPlayer.content = invalid
         m.GridScreen.SetFocus(true)
         'navegate to the last item played
-        m.GridScreen.jumpToRowItem = [m.selectedIndex[0].currentIndex + m.selectedIndex[1]]
+        m.GridScreen.jumpToRowItem = [m.selectedIndex[0], currentIndex + m.selectedIndex[1]]
     end if
 end sub
