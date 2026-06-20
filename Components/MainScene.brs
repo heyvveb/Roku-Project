@@ -12,16 +12,27 @@ sub Init()
 end sub
 
 'Funtion that recibes events of remote control
-function OnKeyEvent(key as String, press as Boolean) as boolean
-    result= false
+function OnKeyEvent(key as String, press as Boolean) as Boolean
+    result = false
     if press
         'Back key press
         if key = "back"
-            numberOfScreens=m.screenStack.Count()
+            numberOfScreens = m.screenStack.Count()
             'Close top screen if there are two or more screen in the stack
-            if numberOfScreens>1
+            if numberOfScreens > 1
                 CloseScreen(invalid)
-                result=true
+                result = true
+            end if
+        else if key = "play" or key = "OK"
+            'Pause/resume if videoplayer is in screen
+            if m.videoPlayer <> invalid and m.videoPlayer.visible
+                if m.videoPlayer.state = "playing"
+                    m.videoPlayer.control = "pause"
+                    result = true
+                else if m.videoPlayer.state = "paused"
+                    m.videoPlayer.control = "resume"
+                    result = true
+                end if
             end if
         end if
     end if
