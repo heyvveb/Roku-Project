@@ -18,7 +18,7 @@
         />
         <Label
         id="overhangTitle"
-        text="FIFA WC 2026"
+        text="FIFA WORLD CUP 2026"
         vertAlign="center"
         translation="[180, -10]"
         height="200"
