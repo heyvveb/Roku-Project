@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="DetailsScreen" extends="Group" initialFocus="Buttons" xsi:noNamespaceSchemaLocation="https://devtools.web.roku.com/schema/RokuSceneGraph.xsd">
+    <script type="text/brightscript" uri="DetailsScreen.brs" />
+    <script type="text/brightscript" uri="pkg:/source/utils.brs" />
+    <interface>
+        <!-- Content fields -->
+        <field id="content" type="node" />
+        <!-- Manualy focus on desired item-->
+        <field id="jumpToItem" type="integer" onChange="OnJumpToItem" value="0" alwaysNotify="true"/>
+        <field id="itemFocused" type="integer" alwaysNotify="true"/>
+        <field id="buttonSelected" type="integer" alias="buttons.itemSelected"/>
+    </interface>
+    <children>
+        <LayoutGroup
+            translation = "[1166,154]"
+            layoutDirection="horiz"
+            horizAlignment="right"
+            itemSpacing="[40]"
+        >
+            <LayoutGroup
+                itemSpacing="[14,10]"
+                layoutDirection= "vet"
+            >
+                <Rectangle
+                    width="357"
+                    heigth="201"
+                    color="0xdbe0e6"
+                >
+                    <Poster
+                        id="poster"
+                        width="357"
+                        loadWidth="357"
+                        heigth="201"
+                        loadHeigth="201"
+                        loadDisplayMode="scaleToFit"
+                    >
+                </Rectangle>
+                <Label
+                    id="titleLabel"
+                    width="357"
+                    wrap="false"
+                    horizAlign="right"
+                />
+                <Label
+                    id="timeLabel"
+                    width="357"
+                    wrap="false"
+                    horizAlign="right"
+                />
+            </LayoutGroup>
+            <Group>
+                <LabelList
+                    id="buttons"
+                    numRows="3"
+                    itemSpacing="[0,10]"
+                    itemSize="[593, 48]"
+                />
+                <LayoutGroup
+                    itemSpacing="[40]"
+                    translation="[0,208]"
+                >
+                    <Label
+                        id="descriptionLabel"
+                        wrap="true"
+                        maxlines="6"
+                        width="593"
+                    />
+                    <Label
+                        id="releaseLabel"
+                        wrap="true"
+                        maxlines="6"
+                        width="520"
+                    />
+                </LayoutGroup>
+            </Group>
+        </LayoutGroup>
+    </children>
+</component>
