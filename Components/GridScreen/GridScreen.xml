@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component name="GridScreen" initialFocus="RowList"  extends="Group">
     <script type="text/brightscript" uri="GridScreen.brs" />
+    <script type="text/brightscript" uri="pkg:/Source/utils.brs"/>
         <interface>
             <!-- Content for the grid screen-->
             <field id="content" type="node" alias="RowList.content" />

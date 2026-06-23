@@ -31,9 +31,9 @@ end sub
 sub SetDetailsContent(content as Object)
     m.poster.uri = content.hdPosterURL
     m.description.text = content.description
-    m.timeLabel = GetTime(content.length)
-    m.titleLabel = content.title
-    m.releaseLabel = content.releaseDate
+    m.timeLabel.text = GetTime(content.length)
+    m.titleLabel.text = content.title
+    m.releaseLabel.text = content.releaseDate
 end sub
 
 sub OnJumpToItem()
