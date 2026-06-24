@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="EpisodesListItemComponent" extends="Grup" xsi:noNamespaceSchemaLocation="https://devtools.web.roku.com/schema/RokuSceneGraph.xsd">
+    <script type="text/brightscript" uri="EpisodesListItemComponent.brs" />
+    <script type="text/brightscript" uri="pkg:/Source/utils.brs"/>
+    <interface>
+        <field id="itemContent" type="node" Onchange="itemContentChanged"/>
+    </interface>
+    <children>
+        <Rectangle
+            width="650"
+            heigth="160"
+            color="0x2020ff"
+        />
+        <LayoutGroup
+            LayoutDirection="horiz"
+            itemSpacing="[10]"
+            vertAlignment="custom"
+        >
+            <poster
+                id="poster"
+                width="250"
+                loadWidth="250"
+                height="160"
+                loadheight="160"
+                loadDisplaymode="limitsize"
+            />
+            <LayoutGroup
+                translation="[0.0,10.0]"
+                itemSpacing="[16]"
+            >
+                <Label
+                    id="title"
+                    color="#EFEFEFFF"
+                    maxLines="2"
+                    width="310"
+                    wrap="true"
+                />
+                <Label
+                    id="info"
+                    color="#FFFFFF6F"
+                    maxLines="2"
+                    width="310"
+                    wrap="true"
+                />
+                <Label
+                    id="description"
+                    color="#FFFFFF6F"
+                    maxLines="4"
+                    width="310"
+                    wrap="true"
+                />
+            </LayoutGroup>
+        </LayoutGroup>
+    </children>
+</component>
