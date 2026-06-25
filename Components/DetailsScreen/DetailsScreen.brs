@@ -11,29 +11,38 @@ function init()
     m.timeLabel = m.top.findNode("timeLabel")
     m.titleLabel = m.top.findNode("titleLabel")
     m.releaseLabel = m.top.findNode("releaseLabel")
-    'Create buttons
-    result = []
-    for each button in ["PLay"]
-        result.Push({title: button})
-    end for
-    'Set list of buttons for detailsScreen
-    m.buttons.content = ContentListToSimpleNode(result)
 end function
 
 sub OnVisibleChange()
     'Set focus for buttons list when DetailsScreen become visible
     if m.top.visible = true
         m.buttons.SetFocus(true)
-        m.top.itemFocused =  m.top.jumpToItem
     end if
 end sub
 
-sub SetDetailsContent(content as Object)
+sub SetButtons(buttons)
+    'Create buttons
+    result = []
+    for each button in buttons
+        result.Push({title: button})
+    end for
+    'Set list of buttons for detailsScreen
+    m.buttons.content = ContentListToSimpleNode(result)
+end sub
+
+sub SetDetailsContent(content)
     m.poster.uri = content.hdPosterURL
     m.description.text = content.description
-    m.timeLabel.text = GetTime(content.length)
+    if content.length <> invalid and content.length <> 0
+        m.timeLabel.text = GetTime(content.length)
+    end if
     m.titleLabel.text = content.title
-    m.releaseLabel.text = content.releaseDate
+    m.releaseLabel.text = Left(content.releaseDate,10)
+    if content.mediaType = "series"
+        SetButtons(["Play",["See all episodes"]])
+    else
+        SetButtons(["Play"])
+    end if
 end sub
 
 sub OnJumpToItem()
