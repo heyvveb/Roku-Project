@@ -31,7 +31,7 @@ sub OnItemFocused()
     'update tittle label with de tittle of focused item
     m.titleLabel.text = item.title
     'adding lenght of playback to the title
-    if item.length <> invalid
+    if item.length <> invalid and item.length<>0
         m.titleLabel.text += " | " + GetTime(item.length)
     end if
 end sub
