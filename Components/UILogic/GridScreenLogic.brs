@@ -11,5 +11,6 @@ sub OnGridScreenItemSelected(event as object)
     m.selectedIndex = event.GetData()
     'the entire row from the rowwlist will be used by the video node
     rowContent = grid.content.GetChild(m.selectedIndex[0])
+    m.selectedRow = m.selectedIndex[0]
     ShowDetailsScreen(rowContent,m.selectedIndex[1])
 end sub
