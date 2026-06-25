@@ -24,6 +24,11 @@ sub GetContent()
                 'parse items and push them to row
                 for each item in value
                     itemData = GetItemData(item)
+                    seasons = GetSeasonData(item.seasons)
+                    itemData.mediaType= category
+                    if seasons <> invalid and season.Count() > 0
+                        itemData.children = seasons
+                    end if
                     row.children.Push(itemData)
                 end for
                 rootChildren.push(row)
@@ -50,10 +55,41 @@ function GetItemData(video as object) as object
     item.title = video.title
     item.releaseDate = video.releaseDate
     item.id = video.id
+    if video.episodeNumber <> invalid
+        item.episodePosition = video.episodeNumber.ToStr()
+    end if
     if video.content <> invalid
         item.length = video.content.duration
         item.url = video.content.videos[0].url
         item.streamFormat = video.content.videos[0].videoType
     end if
     return item
+end function
+
+function GetSeasonData(seasons as object) as object
+    seasonsArray = []
+    if seasons <> invalid
+        episodeCounter = 0
+        for each season in seasons
+            if season.episodes <> invalid
+                episodes = []
+                for each episode in season.episodes
+                    episodeData = GetItemData(episode)
+                    'Save season title for element to represent it on the episodes screen
+                    episodeData.titleSeason = season.title
+                    episodeData.numEpisodes = episodeCounter
+                    episodeData.mediaType = "episode"
+                    episodes.Push(episodeData)
+                    episodeCounter++
+                end for
+                seasonData = GetItemData(season)
+                'populate season's children field whit its episodes
+                seasonData.children = episodes
+                'Set content type for season object to repesent it on the screen
+                seasonData.contentType ="section"
+                seasonsArray.push(seasonData)
+            end if
+        end for
+    end if
+    return seasonsArray
 end function
