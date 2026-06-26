@@ -39,7 +39,7 @@ sub SetDetailsContent(content)
     m.titleLabel.text = content.title
     m.releaseLabel.text = Left(content.releaseDate,10)
     if content.mediaType = "series"
-        SetButtons(["Play",["See all episodes"]])
+        SetButtons(["Play","See all episodes"])
     else
         SetButtons(["Play"])
     end if

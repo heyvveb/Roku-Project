@@ -1,7 +1,8 @@
 sub init()
     m.poster = m.top.findNode("poster")
     m.title = m.top.findNode("title")
-    m.description = m.top.findNode("info")
+    m.description = m.top.findNode("description")
+    m.info = m.top.findNode("info")
     m.title.font.size = 20
     m.description.font.size = 16
     m.info.font.size = 16
@@ -16,7 +17,7 @@ sub itemContentChanged()
         m.poster.uri=itemContent.hdPosterUrl
         m.title.text = itemContent.title
         divider = " | "
-        episode = "Game" + itemContent.episodePosition
+        episode = "Game " + itemContent.episodePosition
         time = GetTime(itemContent.length)
         date = itemContent.releaseDate
         season = itemContent.titleSeason

@@ -26,7 +26,7 @@ sub GetContent()
                     itemData = GetItemData(item)
                     seasons = GetSeasonData(item.seasons)
                     itemData.mediaType= category
-                    if seasons <> invalid and season.Count() > 0
+                    if seasons <> invalid and seasons.Count() > 0
                         itemData.children = seasons
                     end if
                     row.children.Push(itemData)

@@ -22,7 +22,7 @@ end function
 
 function CloneChildren(node as object, startItem = 0 as Integer)
     'Get number of row items
-    numOfChildren = content.GetChildCount()
+    numOfChildren = node.GetChildCount()
     'Populate children array with items started from selected one
     children = node.GetChildren(numOfChildren - startItem, startItem)
     childrenClone = []

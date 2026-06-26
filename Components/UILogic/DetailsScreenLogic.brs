@@ -31,7 +31,7 @@ sub OnDetailsScreenVisibilityChanged(event as object)
     if visible=false
         if screenType="GridScreen"
             'update grid screen focus when navigate back from detailsScreen
-            currentScreen.jumpToItem=[m.selectedIndex[0],detailsScreen.itemFocused]
+            currentScreen.jumpToRowItem=[m.selectedIndex[0],detailsScreen.itemFocused]
         else if screenType = "EpisodesScreen"
             content = detailsScreen.content.GetChild(detailsScreen.itemFocused)
             currentScreen.jumpToItem = content.numEpisodes

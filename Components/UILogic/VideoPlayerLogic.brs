@@ -3,7 +3,7 @@ sub ShowVideoScreen(content as Object, itemIndex as Integer, isSeries = false as
     'create a new instances of video node for each playback
     m.videoPlayer = CreateObject("roSGNode","Video")
     if itemIndex <> 0
-        childrenClone = CloneChildren(rowContent, itemIndex)
+        childrenClone = CloneChildren(Content, itemIndex)
         'Create new parent node for cloned items
         node= CreateObject("roSGNode","ContentNode")
         node.Update({children: childrenClone},true)
@@ -15,7 +15,7 @@ sub ShowVideoScreen(content as Object, itemIndex as Integer, isSeries = false as
     'Enable video playlist
     m.videoPlayer.contentIsPlaylist= true
     'Show video screen
-    ShowScreen(m.videoPlayer) 
+    ShowScreen(m.videoPlayer)
     'Start playback
     m.videoPlayer.control = "play"
     m.videoPlayer.ObserveField("state","OnVideoPlayerStateChange")

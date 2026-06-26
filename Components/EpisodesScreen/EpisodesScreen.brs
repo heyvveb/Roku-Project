@@ -1,11 +1,11 @@
 'Entry point of EpisodesScreen
 function init()
     'Observe when episodes screen change visibility
-    m.top.observeField("visible", "onVisibleChange")
+    m.top.observeField("visible", "OnVisibleChange")
     m.categoryList = m.top.findNode("categoryList")
     'Observe for which season is focus
     m.categoryList.observeField("itemFocused","OnCategoryItemFocused")
-    m.itemList= m.top.findNode("itemList")
+    m.itemList= m.top.findNode("itemsList")
     'Observer for which episode is focus
     m.itemList.observeField("itemFocused","OnListItemFocused")
     'Observe for which episode is selected
@@ -17,10 +17,10 @@ sub OnListItemFocused(event as object)
     focusedItem=event.GetData()
     categoryIndex= m.itemToSection[focusedItem]
     'Change focused item in season list
-    if (categoryIndex - 1) = m.categoryList.jumToItem
+    if (categoryIndex - 1) = m.categoryList.jumpToItem
         m.categoryList.animateToItem = categoryIndex
     else if not m.categoryList.IsInFocusChain()
-        m.categoryList.jumToItem = categoryIndex
+        m.categoryList.jumpToItem = categoryIndex
     end if
 end sub
 
@@ -34,7 +34,7 @@ sub InitSections(content as object)
     sectionCount = 0
     'Goes through seasons and populate "firstItemInSection" and "itemToSection" arrays
     for each section in content.GetChildren(-1,0)
-        itemsPerSection = section.GetChildrencount()
+        itemsPerSection = section.GetChildcount()
         for each child in section.GetChildren(-1,0)
             m.itemToSection.push(sectionCount)
         end for
@@ -57,14 +57,14 @@ sub OnCategoryItemFocused(event as object)
         'index of season
         focusedItem= event.GetData()
         'navigate to the first episode of season
-        m.itemList.jumToItem = m.firstItemInSection[focusedItem]
+        m.itemList.jumpToItem = m.firstItemInSection[focusedItem]
     end if
 end sub
 
 sub OnJumpToItem(event as Object)
     itemIndex = event.GetData()
     'Navigate to the specified item
-    m.itemList.jumToItem=itemIndex
+    m.itemList.jumpToItem=itemIndex
 end sub
 
 'When episodeScreen Content is changed
@@ -78,7 +78,7 @@ end sub
 sub OnVisibleChange()
     if m.top.visible = true
         'Set focus to the episodes list
-        m.itemList.setFocus(true)
+        m.itemList.SetFocus(true)
     end if
 end sub
 
@@ -91,18 +91,19 @@ sub OnListItemSelected(event as object)
     m.top.SelectedItem=[sectionIndex, itemSelected - m.firstItemInSection[sectionIndex]]
 end sub
 
-function OnKeyEvent(key as string, press as boolean)
+function OnKeyEvent(key as string, press as boolean) as Boolean
     result = false
     if press
         if key = "left" and m.itemList.HasFocus()
             m.categoryListGainFocues=true
-            m.categoryList.setFocus(true)
+            m.categoryList.SetFocus(true)
             m.itemList.drawFocusFeedback= false
             result=true
         else if key = "right" and m.categoryList.HasFocus()
             m.itemList.drawFocusFeedback=true
-            m.itemList.setFocus(true)
+            m.itemList.SetFocus(true)
             result = true
         end if
     end if
+    return result
 end function
