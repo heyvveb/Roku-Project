@@ -9,7 +9,7 @@
         <Rectangle
             width="650"
             height="160"
-            color="0x2020ff"
+            color="0x262636"
         />
         <LayoutGroup
             LayoutDirection="horiz"

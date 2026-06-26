@@ -6,13 +6,20 @@
     <script type="text/brightscript" uri="RowListItemComponent.brs" />
     <children>
         <!-- items configuration -->
-        <poster
-            id="poster"
-            loadDisplayMode="scaleToFit"
+        <Rectangle
             width="320"
             height="180"
-            loadWidth="320"
-            loadHeight="180"
-        />
+            color="0x000000FF"
+        >
+            <poster
+                id="poster"
+                loadDisplayMode="scaleToFit"
+                width="320"
+                height="180"
+                loadWidth="320"
+                loadHeight="180"
+                color="0x000000"
+            />
+        </Rectangle>
     </children>
 </component>

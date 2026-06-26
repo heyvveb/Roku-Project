@@ -6,7 +6,6 @@ sub ShowEpisodesScreen(content as object, selectedItem as Integer)
     'Populate episodesScreen whit content based on which serial was chosen
     episodesScreen.content=content.GetChild(selectedItem)
     ShowScreen(episodesScreen)
-    ? "EpisodesScreen:", m.top.IsInFocusChain()
 end sub
 
 
