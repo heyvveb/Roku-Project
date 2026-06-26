@@ -38,7 +38,7 @@ sub SetDetailsContent(content)
     end if
     m.titleLabel.text = content.title
     m.releaseLabel.text = Left(content.releaseDate,10)
-    if content.mediaType = "series"
+    if content.mediaType = "Group stage matches"
         SetButtons(["Play","See all episodes"])
     else
         SetButtons(["Play"])
