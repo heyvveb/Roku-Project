@@ -1345,120 +1345,16 @@
 								"dateAdded": "2026-06-26",
 								"videos": [{
 									"videoType": "MP4",
-									"url": "",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
 									"quality": "HD"
 								}],
 								"duration": 131,
 								"language": "en-us"
 							},
-							"thumbnail": " ",
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
 							"shortDescription": "Mexico VS Czechia ",
-							"releaseDate": " ",
+							"releaseDate": "2026-06-25 ",
 							"longDescription": "Mexico VS Czechia ",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						}
-					]
-				},
-				{
-					"title": "South Africa",
-					"episodes": [{
-							"id": "Mexico_SouthAfrica",
-							"title": "Mexico VS South Africa",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "",
-								"videos": [{
-									"videoType": "",
-									"url": "",
-									"quality": "HD"
-								}],
-								"duration": 187,
-								"language": "en-us"
-							},
-							"thumbnail": " ",
-							"shortDescription": " ",
-							"releaseDate": " ",
-							"longDescription": " ",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "Mexico_SouthAfrica",
-							"title": "Mexico VS South Africa",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "",
-								"videos": [{
-									"videoType": "",
-									"url": "",
-									"quality": "HD"
-								}],
-								"duration": 187,
-								"language": "en-us"
-							},
-							"thumbnail": " ",
-							"shortDescription": " ",
-							"releaseDate": " ",
-							"longDescription": " ",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "Mexico_SouthAfrica",
-							"title": "Mexico VS South Africa",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "",
-								"videos": [{
-									"videoType": "",
-									"url": "",
-									"quality": "HD"
-								}],
-								"duration": 187,
-								"language": "en-us"
-							},
-							"thumbnail": " ",
-							"shortDescription": " ",
-							"releaseDate": " ",
-							"longDescription": " ",
-							"tags": [
-								"tips"
-							],
-							"genres": [
-								"educational"
-							]
-						},
-						{
-							"id": "Mexico_SouthAfrica",
-							"title": "Mexico VS South Africa",
-							"episodeNumber": 1,
-							"content": {
-								"dateAdded": "",
-								"videos": [{
-									"videoType": "",
-									"url": "",
-									"quality": "HD"
-								}],
-								"duration": 187,
-								"language": "en-us"
-							},
-							"thumbnail": " ",
-							"shortDescription": " ",
-							"releaseDate": " ",
-							"longDescription": " ",
 							"tags": [
 								"tips"
 							],
@@ -1471,23 +1367,23 @@
 				{
 					"title": "South Korea",
 					"episodes": [{
-							"id": "Mexico_SouthAfrica",
-							"title": "Mexico VS South Africa",
+							"id": "SouthKorea_Czhechia",
+							"title": "South Korea VS Czhechia",
 							"episodeNumber": 1,
 							"content": {
-								"dateAdded": "",
+								"dateAdded": "2026-06-26",
 								"videos": [{
-									"videoType": "",
-									"url": "",
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
 									"quality": "HD"
 								}],
-								"duration": 187,
+								"duration": 131,
 								"language": "en-us"
 							},
-							"thumbnail": " ",
-							"shortDescription": " ",
-							"releaseDate": " ",
-							"longDescription": " ",
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "South Korea VS Czhechia",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Korea VS Czhechia ",
 							"tags": [
 								"tips"
 							],
@@ -1496,23 +1392,23 @@
 							]
 						},
 						{
-							"id": "Mexico_SouthAfrica",
-							"title": "Mexico VS South Africa",
-							"episodeNumber": 1,
+							"id": "SouthKorea_Mexico",
+							"title": "South Korea VS Mexico",
+							"episodeNumber": 2,
 							"content": {
-								"dateAdded": "",
+								"dateAdded": "2026-06-26",
 								"videos": [{
-									"videoType": "",
-									"url": "",
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
 									"quality": "HD"
 								}],
-								"duration": 187,
+								"duration": 130,
 								"language": "en-us"
 							},
-							"thumbnail": " ",
-							"shortDescription": " ",
-							"releaseDate": " ",
-							"longDescription": " ",
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "South Korea VS Mexic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Korea VS Mexic ",
 							"tags": [
 								"tips"
 							],
@@ -1521,23 +1417,52 @@
 							]
 						},
 						{
-							"id": "Mexico_SouthAfrica",
-							"title": "Mexico VS South Africa",
-							"episodeNumber": 1,
+							"id": "SouthKorea_SouthAfrica",
+							"title": "South Korea VS South Africa",
+							"episodeNumber": 3,
 							"content": {
-								"dateAdded": "",
+								"dateAdded": "2026-06-26",
 								"videos": [{
-									"videoType": "",
-									"url": "",
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
 									"quality": "HD"
 								}],
-								"duration": 187,
+								"duration": 130,
 								"language": "en-us"
 							},
-							"thumbnail": " ",
-							"shortDescription": " ",
-							"releaseDate": " ",
-							"longDescription": " ",
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Korea VS South Africa",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Korea VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Africa",
+					"episodes": [{
+							"id": "SouthAfrica_Mexico",
+							"title": "South Africa VS Mexico",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "South Africa VS Mexico",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Africa VS Mexico ",
 							"tags": [
 								"tips"
 							],
@@ -1546,23 +1471,48 @@
 							]
 						},
 						{
-							"id": "Mexico_SouthAfrica",
-							"title": "Mexico VS South Africa",
-							"episodeNumber": 1,
+							"id": "SouthAfrica_Czhechia",
+							"title": "South Africa VS Czhechia",
+							"episodeNumber": 2,
 							"content": {
-								"dateAdded": "",
+								"dateAdded": "2026-06-26",
 								"videos": [{
-									"videoType": "",
-									"url": "",
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
 									"quality": "HD"
 								}],
-								"duration": 187,
+								"duration": 130,
 								"language": "en-us"
 							},
-							"thumbnail": " ",
-							"shortDescription": " ",
-							"releaseDate": " ",
-							"longDescription": " ",
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "South Africa VS Czhechia",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Africa VS Czhechia",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_SouthKorea",
+							"title": "South Africa VS South Korea",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Africa VS South Korea",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Africa VS South Korea",
 							"tags": [
 								"tips"
 							],
@@ -1575,23 +1525,23 @@
 				{
 					"title": "Czhechia",
 					"episodes": [{
-							"id": "Mexico_SouthAfrica",
-							"title": "Mexico VS South Africa",
+							"id": "Czhechia_SouthKorea",
+							"title": "Czhechia VS South Korea",
 							"episodeNumber": 1,
 							"content": {
-								"dateAdded": "",
+								"dateAdded": "2026-06-26",
 								"videos": [{
-									"videoType": "",
-									"url": "",
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
 									"quality": "HD"
 								}],
-								"duration": 187,
+								"duration": 131,
 								"language": "en-us"
 							},
-							"thumbnail": " ",
-							"shortDescription": " ",
-							"releaseDate": " ",
-							"longDescription": " ",
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "Czhechia VS South Korea",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Czhechia VS South Korea ",
 							"tags": [
 								"tips"
 							],
@@ -1600,23 +1550,23 @@
 							]
 						},
 						{
-							"id": "Mexico_SouthAfrica",
-							"title": "Mexico VS South Africa",
-							"episodeNumber": 1,
+							"id": "Czhechia_SouthAfrica",
+							"title": "Czhechia VS South Africa",
+							"episodeNumber": 2,
 							"content": {
-								"dateAdded": "",
+								"dateAdded": "2026-06-26",
 								"videos": [{
-									"videoType": "",
-									"url": "",
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
 									"quality": "HD"
 								}],
-								"duration": 187,
+								"duration": 130,
 								"language": "en-us"
 							},
-							"thumbnail": " ",
-							"shortDescription": " ",
-							"releaseDate": " ",
-							"longDescription": " ",
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "Czhechia VS South Africa",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Czhechia VS South Africa",
 							"tags": [
 								"tips"
 							],
@@ -1625,23 +1575,66 @@
 							]
 						},
 						{
-							"id": "Mexico_SouthAfrica",
-							"title": "Mexico VS South Africa",
-							"episodeNumber": 1,
+							"id": "Czechia_Mexico",
+							"title": "Czechia VS Mexico",
+							"episodeNumber": 3,
 							"content": {
-								"dateAdded": "",
+								"dateAdded": "2026-06-26",
 								"videos": [{
-									"videoType": "",
-									"url": "",
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
 									"quality": "HD"
 								}],
-								"duration": 187,
+								"duration": 131,
 								"language": "en-us"
 							},
-							"thumbnail": " ",
-							"shortDescription": " ",
-							"releaseDate": " ",
-							"longDescription": " ",
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Czechia VS Mexico",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Czechia VS Mexico",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "Group_B",
+			"title": "Group B Matches",
+			"releaseDate": "2026-06-26",
+			"shortDescription": "Highlights from all the group stage matches",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20B/Group%20B.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [{
+					"title": "Switzerland",
+					"episodes": [{
+							"id": "Switzerland_Qatar",
+							"title": "Switzerland VS Qatar",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20B/Switzerland/Switzerland%20VS%20Qatar.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-7avd0uPHvG2LtnbdhNPOIv7fVI0StH1nbujNUUa5dAQArwk3ZBR1Zfkj&s=10",
+							"shortDescription": "Switzerland VS Qatar",
+							"releaseDate": "2026-06-14 ",
+							"longDescription": "Switzerland VS Qatar",
 							"tags": [
 								"tips"
 							],
@@ -1650,23 +1643,3585 @@
 							]
 						},
 						{
+							"id": "Switzerland_BosniaAndHerzegovina",
+							"title": "Switzerland VS Bosnia And Herzegovina",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20B/Switzerland/Switzerland%20VS%20Bosnia%20And%20Herzegovina.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsSvT5EAjbMFwzdU4enMIBjJ_zSAc2BN4IwoIasJ1sVigXiZyiPBoZUEw&s=10",
+							"shortDescription": "Switzerland VS Bosnia And Herzegovina",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Switzerland VS Bosnia And Herzegovina",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Switzerland_Canada",
+							"title": "Switzerland VS Canada",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20B/Switzerland/Switzerland%20VS%20Canada.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwgB28vPlTcWTSbvBCiuJFPAXW_D9vl8vFupg65B6BY51LZ7e9Fn4akwxD&s=10",
+							"shortDescription": "Switzerland VS Canada",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Switzerland VS Canada",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Bosnia and Herzegovina",
+					"episodes": [{
+							"id": "BosniaandHerzegovina_Canada",
+							"title": "Bosnia And Herzegovina VS Canada",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20B/Bosnia%20and%20Herzegovina/Bosnia%20And%20Herzegovina%20VS%20Canada.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgvHEzJH_mIFCEVTmyJE9rU5Ked-z6E5LBcQED97vUCAR3o8AK5oCbDErm&s=10",
+							"shortDescription": "Bosnia And Herzegovina VS Canada",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Bosnia And Herzegovina VS Canada",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "BosniaAndHerzegovina_Switzerland",
+							"title": "Bosnia And Herzegovina VS Switzerland",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20B/Switzerland/Switzerland%20VS%20Bosnia%20And%20Herzegovina.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsSvT5EAjbMFwzdU4enMIBjJ_zSAc2BN4IwoIasJ1sVigXiZyiPBoZUEw&s=10",
+							"shortDescription": "Bosnia And Herzegovina VS Switzerland",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Bosnia And Herzegovina VS Switzerland",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "BosniaandHerzegovina_Qatar",
+							"title": "Bosnia and Herzegovina VS Qatar",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20B/Bosnia%20and%20Herzegovina/Bosnia%20and%20Herzegovina%20VS%20Qatar.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfohhAPgh1nZU-2IhRTLior4DddZKr35894IbuFbtn2vymlx7c5r_TVCA&s=10",
+							"shortDescription": "Bosnia and Herzegovina VS Qatar",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Bosnia and Herzegovina VS Qatar",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Canada",
+					"episodes": [{
+							"id": "Canada_BosniaandHerzegovina",
+							"title": "Canada VS Bosnia and Herzegovina",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "Canada VS Bosnia and Herzegovina",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Canada VS Bosnia and Herzegovina",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_Czhechia",
+							"title": "South Africa VS Czhechia",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "South Africa VS Czhechia",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Africa VS Czhechia",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_SouthKorea",
+							"title": "South Africa VS South Korea",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Africa VS South Korea",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Africa VS South Korea",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Czhechia",
+					"episodes": [{
+							"id": "Czhechia_SouthKorea",
+							"title": "Czhechia VS South Korea",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "Czhechia VS South Korea",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Czhechia VS South Korea ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czhechia_SouthAfrica",
+							"title": "Czhechia VS South Africa",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "Czhechia VS South Africa",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Czhechia VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czechia_Mexico",
+							"title": "Czechia VS Mexico",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Czechia VS Mexico",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Czechia VS Mexico",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "Group_C",
+			"title": "Group C Matches",
+			"releaseDate": "2026-06-26",
+			"shortDescription": "Highlights from all the group stage matches",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20C/Group%20C.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [{
+					"title": "Mexico",
+					"episodes": [{
 							"id": "Mexico_SouthAfrica",
 							"title": "Mexico VS South Africa",
 							"episodeNumber": 1,
 							"content": {
-								"dateAdded": "",
+								"dateAdded": "2026-06-26",
 								"videos": [{
-									"videoType": "",
-									"url": "",
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
 									"quality": "HD"
 								}],
-								"duration": 187,
+								"duration": 129,
 								"language": "en-us"
 							},
-							"thumbnail": " ",
-							"shortDescription": " ",
-							"releaseDate": " ",
-							"longDescription": " ",
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "Mexico VS South Africa",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Mexico VS South Africa ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_SouthKorea",
+							"title": "Mexico VS South Korea",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "Mexico VS Korea Republic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Mexico VS Korea Republic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_Czechia",
+							"title": "Mexico VS Czechia",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Mexico VS Czechia ",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Mexico VS Czechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Korea",
+					"episodes": [{
+							"id": "SouthKorea_Czhechia",
+							"title": "South Korea VS Czhechia",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "South Korea VS Czhechia",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Korea VS Czhechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_Mexico",
+							"title": "South Korea VS Mexico",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "South Korea VS Mexic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Korea VS Mexic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_SouthAfrica",
+							"title": "South Korea VS South Africa",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Korea VS South Africa",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Korea VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Africa",
+					"episodes": [{
+							"id": "SouthAfrica_Mexico",
+							"title": "South Africa VS Mexico",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "South Africa VS Mexico",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Africa VS Mexico ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_Czhechia",
+							"title": "South Africa VS Czhechia",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "South Africa VS Czhechia",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Africa VS Czhechia",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_SouthKorea",
+							"title": "South Africa VS South Korea",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Africa VS South Korea",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Africa VS South Korea",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Czhechia",
+					"episodes": [{
+							"id": "Czhechia_SouthKorea",
+							"title": "Czhechia VS South Korea",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "Czhechia VS South Korea",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Czhechia VS South Korea ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czhechia_SouthAfrica",
+							"title": "Czhechia VS South Africa",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "Czhechia VS South Africa",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Czhechia VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czechia_Mexico",
+							"title": "Czechia VS Mexico",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Czechia VS Mexico",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Czechia VS Mexico",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "Group_D",
+			"title": "Group D Matches",
+			"releaseDate": "2026-06-26",
+			"shortDescription": "Highlights from all the group stage matches",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20D/Group%20D.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [{
+					"title": "Mexico",
+					"episodes": [{
+							"id": "Mexico_SouthAfrica",
+							"title": "Mexico VS South Africa",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "Mexico VS South Africa",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Mexico VS South Africa ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_SouthKorea",
+							"title": "Mexico VS South Korea",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "Mexico VS Korea Republic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Mexico VS Korea Republic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_Czechia",
+							"title": "Mexico VS Czechia",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Mexico VS Czechia ",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Mexico VS Czechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Korea",
+					"episodes": [{
+							"id": "SouthKorea_Czhechia",
+							"title": "South Korea VS Czhechia",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "South Korea VS Czhechia",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Korea VS Czhechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_Mexico",
+							"title": "South Korea VS Mexico",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "South Korea VS Mexic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Korea VS Mexic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_SouthAfrica",
+							"title": "South Korea VS South Africa",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Korea VS South Africa",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Korea VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Africa",
+					"episodes": [{
+							"id": "SouthAfrica_Mexico",
+							"title": "South Africa VS Mexico",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "South Africa VS Mexico",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Africa VS Mexico ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_Czhechia",
+							"title": "South Africa VS Czhechia",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "South Africa VS Czhechia",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Africa VS Czhechia",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_SouthKorea",
+							"title": "South Africa VS South Korea",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Africa VS South Korea",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Africa VS South Korea",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Czhechia",
+					"episodes": [{
+							"id": "Czhechia_SouthKorea",
+							"title": "Czhechia VS South Korea",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "Czhechia VS South Korea",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Czhechia VS South Korea ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czhechia_SouthAfrica",
+							"title": "Czhechia VS South Africa",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "Czhechia VS South Africa",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Czhechia VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czechia_Mexico",
+							"title": "Czechia VS Mexico",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Czechia VS Mexico",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Czechia VS Mexico",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "Group_E",
+			"title": "Group E Matches",
+			"releaseDate": "2026-06-26",
+			"shortDescription": "Highlights from all the group stage matches",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20E/Group%20E.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [{
+					"title": "Mexico",
+					"episodes": [{
+							"id": "Mexico_SouthAfrica",
+							"title": "Mexico VS South Africa",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "Mexico VS South Africa",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Mexico VS South Africa ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_SouthKorea",
+							"title": "Mexico VS South Korea",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "Mexico VS Korea Republic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Mexico VS Korea Republic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_Czechia",
+							"title": "Mexico VS Czechia",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Mexico VS Czechia ",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Mexico VS Czechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Korea",
+					"episodes": [{
+							"id": "SouthKorea_Czhechia",
+							"title": "South Korea VS Czhechia",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "South Korea VS Czhechia",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Korea VS Czhechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_Mexico",
+							"title": "South Korea VS Mexico",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "South Korea VS Mexic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Korea VS Mexic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_SouthAfrica",
+							"title": "South Korea VS South Africa",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Korea VS South Africa",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Korea VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Africa",
+					"episodes": [{
+							"id": "SouthAfrica_Mexico",
+							"title": "South Africa VS Mexico",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "South Africa VS Mexico",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Africa VS Mexico ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_Czhechia",
+							"title": "South Africa VS Czhechia",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "South Africa VS Czhechia",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Africa VS Czhechia",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_SouthKorea",
+							"title": "South Africa VS South Korea",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Africa VS South Korea",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Africa VS South Korea",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Czhechia",
+					"episodes": [{
+							"id": "Czhechia_SouthKorea",
+							"title": "Czhechia VS South Korea",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "Czhechia VS South Korea",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Czhechia VS South Korea ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czhechia_SouthAfrica",
+							"title": "Czhechia VS South Africa",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "Czhechia VS South Africa",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Czhechia VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czechia_Mexico",
+							"title": "Czechia VS Mexico",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Czechia VS Mexico",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Czechia VS Mexico",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "Group_F",
+			"title": "Group F Matches",
+			"releaseDate": "2026-06-26",
+			"shortDescription": "Highlights from all the group stage matches",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20F/Group%20F.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [{
+					"title": "Mexico",
+					"episodes": [{
+							"id": "Mexico_SouthAfrica",
+							"title": "Mexico VS South Africa",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "Mexico VS South Africa",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Mexico VS South Africa ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_SouthKorea",
+							"title": "Mexico VS South Korea",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "Mexico VS Korea Republic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Mexico VS Korea Republic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_Czechia",
+							"title": "Mexico VS Czechia",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Mexico VS Czechia ",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Mexico VS Czechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Korea",
+					"episodes": [{
+							"id": "SouthKorea_Czhechia",
+							"title": "South Korea VS Czhechia",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "South Korea VS Czhechia",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Korea VS Czhechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_Mexico",
+							"title": "South Korea VS Mexico",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "South Korea VS Mexic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Korea VS Mexic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_SouthAfrica",
+							"title": "South Korea VS South Africa",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Korea VS South Africa",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Korea VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Africa",
+					"episodes": [{
+							"id": "SouthAfrica_Mexico",
+							"title": "South Africa VS Mexico",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "South Africa VS Mexico",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Africa VS Mexico ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_Czhechia",
+							"title": "South Africa VS Czhechia",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "South Africa VS Czhechia",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Africa VS Czhechia",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_SouthKorea",
+							"title": "South Africa VS South Korea",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Africa VS South Korea",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Africa VS South Korea",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Czhechia",
+					"episodes": [{
+							"id": "Czhechia_SouthKorea",
+							"title": "Czhechia VS South Korea",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "Czhechia VS South Korea",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Czhechia VS South Korea ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czhechia_SouthAfrica",
+							"title": "Czhechia VS South Africa",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "Czhechia VS South Africa",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Czhechia VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czechia_Mexico",
+							"title": "Czechia VS Mexico",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Czechia VS Mexico",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Czechia VS Mexico",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "Group_G",
+			"title": "Group G Matches",
+			"releaseDate": "2026-06-26",
+			"shortDescription": "Highlights from all the group stage matches",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20G/Group%20G.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [{
+					"title": "Mexico",
+					"episodes": [{
+							"id": "Mexico_SouthAfrica",
+							"title": "Mexico VS South Africa",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "Mexico VS South Africa",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Mexico VS South Africa ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_SouthKorea",
+							"title": "Mexico VS South Korea",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "Mexico VS Korea Republic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Mexico VS Korea Republic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_Czechia",
+							"title": "Mexico VS Czechia",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Mexico VS Czechia ",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Mexico VS Czechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Korea",
+					"episodes": [{
+							"id": "SouthKorea_Czhechia",
+							"title": "South Korea VS Czhechia",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "South Korea VS Czhechia",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Korea VS Czhechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_Mexico",
+							"title": "South Korea VS Mexico",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "South Korea VS Mexic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Korea VS Mexic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_SouthAfrica",
+							"title": "South Korea VS South Africa",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Korea VS South Africa",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Korea VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Africa",
+					"episodes": [{
+							"id": "SouthAfrica_Mexico",
+							"title": "South Africa VS Mexico",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "South Africa VS Mexico",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Africa VS Mexico ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_Czhechia",
+							"title": "South Africa VS Czhechia",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "South Africa VS Czhechia",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Africa VS Czhechia",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_SouthKorea",
+							"title": "South Africa VS South Korea",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Africa VS South Korea",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Africa VS South Korea",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Czhechia",
+					"episodes": [{
+							"id": "Czhechia_SouthKorea",
+							"title": "Czhechia VS South Korea",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "Czhechia VS South Korea",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Czhechia VS South Korea ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czhechia_SouthAfrica",
+							"title": "Czhechia VS South Africa",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "Czhechia VS South Africa",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Czhechia VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czechia_Mexico",
+							"title": "Czechia VS Mexico",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Czechia VS Mexico",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Czechia VS Mexico",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "Group_H",
+			"title": "Group H Matches",
+			"releaseDate": "2026-06-26",
+			"shortDescription": "Highlights from all the group stage matches",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20H/Group%20H.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [{
+					"title": "Mexico",
+					"episodes": [{
+							"id": "Mexico_SouthAfrica",
+							"title": "Mexico VS South Africa",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "Mexico VS South Africa",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Mexico VS South Africa ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_SouthKorea",
+							"title": "Mexico VS South Korea",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "Mexico VS Korea Republic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Mexico VS Korea Republic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_Czechia",
+							"title": "Mexico VS Czechia",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Mexico VS Czechia ",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Mexico VS Czechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Korea",
+					"episodes": [{
+							"id": "SouthKorea_Czhechia",
+							"title": "South Korea VS Czhechia",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "South Korea VS Czhechia",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Korea VS Czhechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_Mexico",
+							"title": "South Korea VS Mexico",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "South Korea VS Mexic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Korea VS Mexic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_SouthAfrica",
+							"title": "South Korea VS South Africa",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Korea VS South Africa",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Korea VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Africa",
+					"episodes": [{
+							"id": "SouthAfrica_Mexico",
+							"title": "South Africa VS Mexico",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "South Africa VS Mexico",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Africa VS Mexico ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_Czhechia",
+							"title": "South Africa VS Czhechia",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "South Africa VS Czhechia",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Africa VS Czhechia",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_SouthKorea",
+							"title": "South Africa VS South Korea",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Africa VS South Korea",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Africa VS South Korea",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Czhechia",
+					"episodes": [{
+							"id": "Czhechia_SouthKorea",
+							"title": "Czhechia VS South Korea",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "Czhechia VS South Korea",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Czhechia VS South Korea ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czhechia_SouthAfrica",
+							"title": "Czhechia VS South Africa",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "Czhechia VS South Africa",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Czhechia VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czechia_Mexico",
+							"title": "Czechia VS Mexico",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Czechia VS Mexico",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Czechia VS Mexico",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "Group_I",
+			"title": "Group I Matches",
+			"releaseDate": "2026-06-26",
+			"shortDescription": "Highlights from all the group stage matches",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20I/Group%20I.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [{
+					"title": "Mexico",
+					"episodes": [{
+							"id": "Mexico_SouthAfrica",
+							"title": "Mexico VS South Africa",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "Mexico VS South Africa",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Mexico VS South Africa ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_SouthKorea",
+							"title": "Mexico VS South Korea",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "Mexico VS Korea Republic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Mexico VS Korea Republic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_Czechia",
+							"title": "Mexico VS Czechia",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Mexico VS Czechia ",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Mexico VS Czechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Korea",
+					"episodes": [{
+							"id": "SouthKorea_Czhechia",
+							"title": "South Korea VS Czhechia",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "South Korea VS Czhechia",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Korea VS Czhechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_Mexico",
+							"title": "South Korea VS Mexico",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "South Korea VS Mexic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Korea VS Mexic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_SouthAfrica",
+							"title": "South Korea VS South Africa",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Korea VS South Africa",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Korea VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Africa",
+					"episodes": [{
+							"id": "SouthAfrica_Mexico",
+							"title": "South Africa VS Mexico",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "South Africa VS Mexico",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Africa VS Mexico ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_Czhechia",
+							"title": "South Africa VS Czhechia",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "South Africa VS Czhechia",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Africa VS Czhechia",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_SouthKorea",
+							"title": "South Africa VS South Korea",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Africa VS South Korea",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Africa VS South Korea",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Czhechia",
+					"episodes": [{
+							"id": "Czhechia_SouthKorea",
+							"title": "Czhechia VS South Korea",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "Czhechia VS South Korea",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Czhechia VS South Korea ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czhechia_SouthAfrica",
+							"title": "Czhechia VS South Africa",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "Czhechia VS South Africa",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Czhechia VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czechia_Mexico",
+							"title": "Czechia VS Mexico",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Czechia VS Mexico",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Czechia VS Mexico",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "Group_J",
+			"title": "Group J Matches",
+			"releaseDate": "2026-06-26",
+			"shortDescription": "Highlights from all the group stage matches",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20J/Group%20J.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [{
+					"title": "Mexico",
+					"episodes": [{
+							"id": "Mexico_SouthAfrica",
+							"title": "Mexico VS South Africa",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "Mexico VS South Africa",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Mexico VS South Africa ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_SouthKorea",
+							"title": "Mexico VS South Korea",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "Mexico VS Korea Republic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Mexico VS Korea Republic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_Czechia",
+							"title": "Mexico VS Czechia",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Mexico VS Czechia ",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Mexico VS Czechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Korea",
+					"episodes": [{
+							"id": "SouthKorea_Czhechia",
+							"title": "South Korea VS Czhechia",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "South Korea VS Czhechia",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Korea VS Czhechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_Mexico",
+							"title": "South Korea VS Mexico",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "South Korea VS Mexic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Korea VS Mexic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_SouthAfrica",
+							"title": "South Korea VS South Africa",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Korea VS South Africa",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Korea VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Africa",
+					"episodes": [{
+							"id": "SouthAfrica_Mexico",
+							"title": "South Africa VS Mexico",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "South Africa VS Mexico",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Africa VS Mexico ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_Czhechia",
+							"title": "South Africa VS Czhechia",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "South Africa VS Czhechia",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Africa VS Czhechia",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_SouthKorea",
+							"title": "South Africa VS South Korea",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Africa VS South Korea",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Africa VS South Korea",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Czhechia",
+					"episodes": [{
+							"id": "Czhechia_SouthKorea",
+							"title": "Czhechia VS South Korea",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "Czhechia VS South Korea",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Czhechia VS South Korea ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czhechia_SouthAfrica",
+							"title": "Czhechia VS South Africa",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "Czhechia VS South Africa",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Czhechia VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czechia_Mexico",
+							"title": "Czechia VS Mexico",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Czechia VS Mexico",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Czechia VS Mexico",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "Group_K",
+			"title": "Group K Matches",
+			"releaseDate": "2026-06-26",
+			"shortDescription": "Highlights from all the group stage matches",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20K/Group%20K.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [{
+					"title": "Mexico",
+					"episodes": [{
+							"id": "Mexico_SouthAfrica",
+							"title": "Mexico VS South Africa",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "Mexico VS South Africa",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Mexico VS South Africa ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_SouthKorea",
+							"title": "Mexico VS South Korea",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "Mexico VS Korea Republic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Mexico VS Korea Republic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_Czechia",
+							"title": "Mexico VS Czechia",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Mexico VS Czechia ",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Mexico VS Czechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Korea",
+					"episodes": [{
+							"id": "SouthKorea_Czhechia",
+							"title": "South Korea VS Czhechia",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "South Korea VS Czhechia",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Korea VS Czhechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_Mexico",
+							"title": "South Korea VS Mexico",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "South Korea VS Mexic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Korea VS Mexic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_SouthAfrica",
+							"title": "South Korea VS South Africa",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Korea VS South Africa",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Korea VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Africa",
+					"episodes": [{
+							"id": "SouthAfrica_Mexico",
+							"title": "South Africa VS Mexico",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "South Africa VS Mexico",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Africa VS Mexico ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_Czhechia",
+							"title": "South Africa VS Czhechia",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "South Africa VS Czhechia",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Africa VS Czhechia",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_SouthKorea",
+							"title": "South Africa VS South Korea",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Africa VS South Korea",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Africa VS South Korea",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Czhechia",
+					"episodes": [{
+							"id": "Czhechia_SouthKorea",
+							"title": "Czhechia VS South Korea",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "Czhechia VS South Korea",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Czhechia VS South Korea ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czhechia_SouthAfrica",
+							"title": "Czhechia VS South Africa",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "Czhechia VS South Africa",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Czhechia VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czechia_Mexico",
+							"title": "Czechia VS Mexico",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Czechia VS Mexico",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Czechia VS Mexico",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "Group_L",
+			"title": "Group L Matches",
+			"releaseDate": "2026-06-26",
+			"shortDescription": "Highlights from all the group stage matches",
+			"thumbnail": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20L/Group%20L.png",
+			"genres": [
+				"educational"
+			],
+			"tags": [
+				"tips"
+			],
+			"seasons": [{
+					"title": "Mexico",
+					"episodes": [{
+							"id": "Mexico_SouthAfrica",
+							"title": "Mexico VS South Africa",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "Mexico VS South Africa",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Mexico VS South Africa ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_SouthKorea",
+							"title": "Mexico VS South Korea",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "Mexico VS Korea Republic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Mexico VS Korea Republic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Mexico_Czechia",
+							"title": "Mexico VS Czechia",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Mexico VS Czechia ",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Mexico VS Czechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Korea",
+					"episodes": [{
+							"id": "SouthKorea_Czhechia",
+							"title": "South Korea VS Czhechia",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "South Korea VS Czhechia",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Korea VS Czhechia ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_Mexico",
+							"title": "South Korea VS Mexico",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Korea%20Republic.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://wp.clutchpoints.com/wp-content/uploads/2026/06/Mexico-vs.-South-Korea-2026-World-Cup-predictions-odds-pick.jpg?w=1200",
+							"shortDescription": "South Korea VS Mexic ",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Korea VS Mexic ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthKorea_SouthAfrica",
+							"title": "South Korea VS South Africa",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Korea VS South Africa",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Korea VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "South Africa",
+					"episodes": [{
+							"id": "SouthAfrica_Mexico",
+							"title": "South Africa VS Mexico",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 129,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawOc5tGHnHXnDhPoxNzvab1kxl5YKXd0Xh3JKwolJfZ2fyTZ-yKPksEc&s=10",
+							"shortDescription": "South Africa VS Mexico",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "South Africa VS Mexico ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_Czhechia",
+							"title": "South Africa VS Czhechia",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "South Africa VS Czhechia",
+							"releaseDate": "2026-06-19",
+							"longDescription": "South Africa VS Czhechia",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "SouthAfrica_SouthKorea",
+							"title": "South Africa VS South Korea",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20South%20Africa.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHfJuOwKZnfon2O8PQGQD_fetRlUBwzWJXEQWauw_dLbmlu4O3U-A--fg&s=10",
+							"shortDescription": "South Africa VS South Korea",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "South Africa VS South Korea",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						}
+					]
+				},
+				{
+					"title": "Czhechia",
+					"episodes": [{
+							"id": "Czhechia_SouthKorea",
+							"title": "Czhechia VS South Korea",
+							"episodeNumber": 1,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Korea/South%20Korea%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa2fMM0BNuzONEYM2YmN5R65ARWuYTXvy7Sv041qp8q8jyy6-S3DOtts&s=10",
+							"shortDescription": "Czhechia VS South Korea",
+							"releaseDate": "2026-06-12 ",
+							"longDescription": "Czhechia VS South Korea ",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czhechia_SouthAfrica",
+							"title": "Czhechia VS South Africa",
+							"episodeNumber": 2,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/South%20Africa/South%20Africa%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 130,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIR8IuaAJ4xXERGDBYBxZQKKcIfTHOYcTtE5Tq2C5I59NeUfeHTe_7aJOh&s=10",
+							"shortDescription": "Czhechia VS South Africa",
+							"releaseDate": "2026-06-19",
+							"longDescription": "Czhechia VS South Africa",
+							"tags": [
+								"tips"
+							],
+							"genres": [
+								"educational"
+							]
+						},
+						{
+							"id": "Czechia_Mexico",
+							"title": "Czechia VS Mexico",
+							"episodeNumber": 3,
+							"content": {
+								"dateAdded": "2026-06-26",
+								"videos": [{
+									"videoType": "MP4",
+									"url": "https://reczgvapkirullamajgf.supabase.co/storage/v1/object/public/Matches/Group%20A/Mexico/Mexico%20VS%20Czhechia.mp4",
+									"quality": "HD"
+								}],
+								"duration": 131,
+								"language": "en-us"
+							},
+							"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DM39tBl6nVaz_M2z583ua1BlED5AHY9H5paSxahYMFeKaadfB_tu6ak&s=10 ",
+							"shortDescription": "Czechia VS Mexico",
+							"releaseDate": "2026-06-25 ",
+							"longDescription": "Czechia VS Mexico",
 							"tags": [
 								"tips"
 							],
