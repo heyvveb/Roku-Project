@@ -18,7 +18,6 @@
                 height="180"
                 loadWidth="320"
                 loadHeight="180"
-                color="0x000000"
             />
         </Rectangle>
     </children>

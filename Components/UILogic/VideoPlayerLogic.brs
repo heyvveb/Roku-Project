@@ -37,7 +37,8 @@ sub OnVideoVisibleChange()
         'stop playback
         m.videoPlayer.control = "stop"
         m.videoPlayer.content = invalid
-        m.GridScreen.SetFocus(true)
+        screen = GetCurrentScreen()
+        screen.SetFocus(true)
         newIndex=m.selectedIndex[1]
         if m.isSeries = true
             m.isSeries = false
@@ -45,6 +46,6 @@ sub OnVideoVisibleChange()
             newIndex += currentIndex
         end if
         'navegate to the last item played
-        m.GridScreen.jumpToRowItem = newIndex
+        screen.jumpToItem = newIndex
     end if
 end sub

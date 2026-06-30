@@ -43,7 +43,7 @@ sub HandlePlayButton(content as object, selectedItem as integer)
     itemContent = content.GetChild(selectedItem)
     'if content node is serial whit seasons
     'Set all videos in a playlist
-    if itemContent.mediaType = "series"
+    if itemContent.mediaType = "Group stage matches"
         children = []
         'clone all episodes of each season
         for each season in itemContent.GetChildren(-1,0)
