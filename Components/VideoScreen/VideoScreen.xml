@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="VideoScreen" extends="Rectangle" xsi:noNamespaceSchemaLocation="https://devtools.web.roku.com/schema/RokuSceneGraph.xsd" >
+    <script type="text/brightscript" uri="VideoScreen.brs" />
+    <interface>
+        <!-- Content node whit playlist items-->
+        <field id="content" type="node" />
+        <!-- Index of selected item in playlist -->
+        <field id="startIndex" type="integer" alwaysnotify="true" onCHange="OnindexChanged"/>
+        <!-- index of last played item-->
+        <field id="lastIndex" type="integer" alias="PlayerTask.lastIndex" />
+        <field id="isSeries" type="bool" />
+        <!-- Video Screen will be close once set to true-->
+        <field id="close" type="bool" />
+    </interface>
+    <children>
+        <PlayerTask
+            id="PlayerTask"
+        />
+    </children>
+</component>
