@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component name="PlayerTask" extends="Task">
+    <script type="text/brightscript" uri="PlayerTask.brs" />
+    <interface>
+        <field id="content" type="node" />
+        <field id="startIndex" type="integer" />
+        <field id="lastIndex" type="integer" />
+    </interface>
+</component>
