@@ -17,3 +17,4 @@ ui_resolutions=hd
 
 #Libraries Requirements
 bs_libs_required=roku_ads_lib
+supports_input_launch=1
