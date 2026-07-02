@@ -16,7 +16,7 @@ sub PlayContentWithAds()
     'Main entry point for instantianting the ad interface
     RAF=Roku_Ads()
     RAF.enableAdMeasurements(true)
-    RAF.SetAdUrl("")
+    RAF.SetAdUrl("https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/single_ad_samples&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dlinear&correlator=")
 
     KeepPlay=true
     index=m.top.startIndex -1
@@ -34,7 +34,9 @@ sub PlayContentWithAds()
                 RAF.SetContentGenre(item.categories)
             end if
             RAF.SetContentLength(int(item.length))
+            print "Item: "; item.title; " | id: "; item.id; " | genre: "; item.categories; " | length: "; item.length
             adPods = RAF.GetAds()
+            print "adPods count: "; adPods.Count()
             'Combine video and ads into a single play list
             csasStream = RAF.constructStitchedStream(item, adPods)
             'render the stitched streakm
