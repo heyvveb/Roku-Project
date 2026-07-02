@@ -30,7 +30,18 @@ sub SetButtons(buttons)
     m.buttons.content = ContentListToSimpleNode(result)
 end sub
 
-sub SetDetailsContent(content)
+sub OncontentChagne(event as object)
+    content = event.getData()
+    if content <> invalid
+        m.isContentList=content.GetChildCount()>0
+        if m.isContentList=false
+            SetDetailsContent(content)
+            m.buttons.SetFocus(true)
+        end if
+    end if
+end sub
+
+sub SetDetailsContent(content as object)
     m.poster.uri = content.hdPosterURL
     m.description.text = content.description
     if content.length <> invalid and content.length <> 0
@@ -38,11 +49,28 @@ sub SetDetailsContent(content)
     end if
     m.titleLabel.text = content.title
     m.releaseLabel.text = Left(content.releaseDate,10)
+    buttonList = ["Play"]
     if content.mediaType = "Group stage matches"
-        SetButtons(["Play","See all episodes"])
+        smartBookmarks=MasterChannelSmartBookmarks()
+        'id of episode which should be played
+        episodeId=smartBookmarks.GetSmartBookmarkforSeries(content.id)
+        if episodeId <> invalid and episodeId <> ""
+            episode = FindNodeById(conten,episodeId)
+            if episode <> invalid
+                episode.bookmarkPosition = MasterChannelSmartBookmarks().GetBookmarkForVideo(episode)
+                buttonList.Push("Continue")
+            end if
+        end if
+        buttonList.Push("See all episodes")
     else
-        SetButtons(["Play"])
+        'set playback start position using bookmarks
+        content.bookmarkPosition = MasterChannelSmartBookmarks().GetBookmarkForVideo(content)
+        'add continue button if user started this content but didnt finish it
+        if content.bookmarkPosition > 0
+            buttonList.Push("Continue")
+        end if
     end if
+    SetButtons(buttonList)
 end sub
 
 sub OnJumpToItem()
@@ -63,10 +91,10 @@ function OnKeyEvent(key as string, press as Boolean) as Boolean
     if press
         'Position of the currently focused item
         currentItem = m.top.itemFocused
-        if key ="left"
+        if key ="left" and m.isContentList = true
             m.top.jumpToItem = currentItem - 1
             result=true
-        else if key="right"
+        else if key="right" and m.isContentList = true
             m.top.jumpToItem = currentItem + 1
             result=true
         end if

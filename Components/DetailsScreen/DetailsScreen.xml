@@ -2,13 +2,16 @@
 <component name="DetailsScreen" extends="Group" initialFocus="Buttons" xsi:noNamespaceSchemaLocation="https://devtools.web.roku.com/schema/RokuSceneGraph.xsd">
     <script type="text/brightscript" uri="DetailsScreen.brs" />
     <script type="text/brightscript" uri="pkg:/Source/utils.brs"/>
+    <script type="text/brightscript" uri="pkg/components/UILogic/BookmarksLogic.brs" />
+    <script type="text/brightscript" uri="pkg/components/UILogic/SmartBookmarksLogic.brs" />
     <interface>
         <!-- Content fields -->
-        <field id="content" type="node" />
+        <field id="content" type="node" onChange="OnContentChange"/>
         <!-- Manualy focus on desired item-->
         <field id="jumpToItem" type="integer" onChange="OnJumpToItem" value="0" alwaysNotify="true"/>
         <field id="itemFocused" type="integer" alwaysNotify="true"/>
         <field id="buttonSelected" type="integer" alias="buttons.itemSelected"/>
+        <field id="buttons" type="node" alias="buttons.content"/>
     </interface>
     <children>
         <LayoutGroup
