@@ -1,4 +1,4 @@
-sub ShowVideoScreen(rowContent as Object, selectedItem=0 as Integer, isSeries = false as Boolean)
+sub ShowVideoScreen(rowContent as Object, selectedItem = 0 as Integer, isSeries = false as Boolean)
     videoScreen=CreateObject("roSGNode","VideoScreen")
     videoScreen.ObserveField("close", "OnVideoScreenClose")
     'populate video screen data
@@ -18,8 +18,19 @@ sub OnVideoScreenClose(event as Object)
         screen = GetCurrentScreen()
         'return focus to details screen
         screen.SetFocus(true)
-        if videoScreen.isSeries=false
-            screen.jumpToItem = videoScreen.lastIndex
+        if m.deepLinkDetailsScreen <> invalid
+            content = videoScreen.content
+            if videoScreen.isSeries = true
+                content = content.GetChild(videoScreen.lastIndex)
+            end if
+            if content <> invalid
+                m.deepLinkDetailsScreen.content = content.clone(true)
+            end if
+        else
+            'In case of series we shouldn't change focus on details screen
+            if videoScreen.isSeries=false
+                screen.jumpToItem = videoScreen.lastIndex
+            end if
         end if
     end if
 end sub
