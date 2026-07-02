@@ -39,7 +39,7 @@ sub OnDetailsScreenVisibilityChanged(event as object)
     end if
 end sub
 
-sub HandlePlayButton(content as object, selectedItem = 0 as integer)
+sub HandlePlayButton(content as object, selectedItem as integer, isResume = false as Boolean)
     itemContent = content.GetChild(selectedItem)
     'if content node is serial whit seasons
     'Set all videos in a playlist
@@ -51,11 +51,32 @@ sub HandlePlayButton(content as object, selectedItem = 0 as integer)
         end for
         'Create a new node and set all episodes of serial
         node = CreateObject("roSGNode","ContentNode")
+        node.id = itemContent.id
         node.Update({children: children}, true)
+        index = 0
+        if isResume = true
+            smartBookmarks = MasterChannelSmartBookmarks()
+            episodeId=smartBookmarks.GetSmartBokkmarkForSeries(itemcontent.id)
+            if episodeId <> invalid and episodeId <>""
+                episode = FindNodeById(content, episodeId)
+                if episode <>invalid
+                    index = episode.numEpisodes
+                end if
+            end if
+        else
+            episode = node.getChild(0)
+            episode.bookmarkPosition = 0
+        end if
         'Create a video node and star playback
-        ShowVideoScreen(node,0,true)
+        ShowVideoScreen(node,index,true)
     else
+        if isResume=false
+            itemContent.bookmarkPosition = 0
+        end if
         ShowVideoScreen(content,selectedItem)
+    end if
+    if m.selectedIndex=invalid
+        m.selectedIndex = [0,0]
     end if
     'Store index of selected item
     m.selectedIndex[1]=selectedItem

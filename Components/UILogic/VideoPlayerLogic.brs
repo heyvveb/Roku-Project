@@ -1,4 +1,4 @@
-sub ShowVideoScreen(rowContent as Object, selectedItem as Integer, isSeries = false as Boolean)
+sub ShowVideoScreen(rowContent as Object, selectedItem=0 as Integer, isSeries = false as Boolean)
     videoScreen=CreateObject("roSGNode","VideoScreen")
     videoScreen.ObserveField("close", "OnVideoScreenClose")
     'populate video screen data
