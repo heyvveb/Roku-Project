@@ -1,12 +1,14 @@
-sub ShowEpisodesScreen(content as object, selectedItem as Integer)
+function ShowEpisodesScreen(content as object, itemIndex=0 as Integer) as object
     'Create instance of the episodes screen
     episodesScreen = CreateObject("roSGNode","EpisodesScreen")
     'Observe for know which episode is selected
     episodesScreen.ObserveField("selectedItem", "OnEpisodesScreenItemSelected")
     'Populate episodesScreen whit content based on which serial was chosen
-    episodesScreen.content=content.GetChild(selectedItem)
+    episodesScreen.content=content
+    episodesScreen.jumpToItem = itemIndex
     ShowScreen(episodesScreen)
-end sub
+    return episodesScreen
+end function
 
 
 sub OnEpisodesScreenItemSelected(event as object)
