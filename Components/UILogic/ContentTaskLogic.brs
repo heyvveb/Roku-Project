@@ -13,13 +13,17 @@ end sub
 
 'invoked when content is ready to be used
 sub OnMainContentLoaded()
-    'focus to gridscreen 
-    m.GridScreen.SetFocus(true) 
-    'hide loading indicator 
+    'focus to gridscreen
+    m.GridScreen.SetFocus(true)
+    'hide loading indicator
     m.loadingIndicator.visible = false
     'Make visible overhang
     m.overhang.visible = true
     m.overhangTitle.visible = true
     'add gridscreen whit content
-    m.GridScreen.content = m.contentTask.content 
+    m.GridScreen.content = m.contentTask.content
+    args = m.top.launchArgs
+    if args <> invalid and validateDeepLink(args)
+        DeepLink(m.contentTask.content, args.mediaType, args.contentId)
+    end if
 end sub
