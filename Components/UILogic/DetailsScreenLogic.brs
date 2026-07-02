@@ -39,7 +39,7 @@ sub OnDetailsScreenVisibilityChanged(event as object)
     end if
 end sub
 
-sub HandlePlayButton(content as object, selectedItem as integer)
+sub HandlePlayButton(content as object, selectedItem = 0 as integer)
     itemContent = content.GetChild(selectedItem)
     'if content node is serial whit seasons
     'Set all videos in a playlist
