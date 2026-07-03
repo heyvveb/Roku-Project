@@ -32,3 +32,42 @@ function CloneChildren(node as object, startItem = 0 as Integer)
     end for
     return childrenClone
 end function
+
+'Finds child node by content id
+function findNodeById(content as object, contentId as string) as object
+    for each element in content.GetChildren(-1,0)
+        if content.id=contentId
+            return element
+        else if element.GetChildCount()>0
+            result = findNodeById(element,contentId)
+            if result <> invalid
+                return result
+            end if
+        end if
+    end for
+    return invalid
+end function
+
+'Reads and return the value of the specified key
+function RegRead(key as string, section = invalid as Dynamic) as dynamic
+    if section = invalid then section = "Default"
+    reg = CreateObject("roRegistrySection",section)
+    if reg.Exists(key) then return reg.Read(key)
+    return invalid
+end function
+
+'replaces the value of the especified key
+sub RegWrite(key as string, val as string, section = invalid as dynamic)
+    if section = invalid then section = "Default"
+    reg = CreateObject("roRegistrySection", section)
+    reg.Write(key, val)
+    reg.Flush()
+end sub
+
+'Deteles the specified key
+sub RegDelete(key as String, section = invalid as dynamic)
+    if section = invalid then section = "Default"
+    reg = CreateObject("roRegistrySection", section)
+    reg.Delete(key)
+    reg.Flush()
+end sub
