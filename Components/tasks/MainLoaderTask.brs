@@ -12,6 +12,7 @@ sub GetContent()
     rows = {}
     json = ParseJson(rsp)
     if json <> invalid
+        homeRowIndex=0
         categories = json.Keys()
         categories.Sort()
         for each category in categories
@@ -21,17 +22,22 @@ sub GetContent()
                 row = {}
                 row.title= category
                 row.children = []
+                homeItemIndex=0
                 'parse items and push them to row
                 for each item in value
                     itemData = GetItemData(item)
-                    seasons = GetSeasonData(item.seasons)
+                    itemData.homeRowIndex=homeRowIndex
+                    itemData.homeItemIndex=homeItemIndex
+                    seasons = GetSeasonData(item.seasons,homeRowIndex,homeItemIndex,item.id)
                     itemData.mediaType= category
                     if seasons <> invalid and seasons.Count() > 0
                         itemData.children = seasons
                     end if
                     row.children.Push(itemData)
+                    homeItemIndex ++
                 end for
                 rootChildren.push(row)
+                homeRowIndex ++
             end if
         end for
         'set up a root contentNode to representr rowList on the gridscreen
@@ -66,7 +72,7 @@ function GetItemData(video as object) as object
     return item
 end function
 
-function GetSeasonData(seasons as object) as object
+function GetSeasonData(seasons as object, homeRowIndex as integer, homeItemIndex as Integer, seriesId as String) as object
     seasonsArray = []
     if seasons <> invalid
         episodeCounter = 0
@@ -79,6 +85,9 @@ function GetSeasonData(seasons as object) as object
                     episodeData.titleSeason = season.title
                     episodeData.numEpisodes = episodeCounter
                     episodeData.mediaType = "episode"
+                    episodeData.homeRowIndex = homeRowIndex
+                    episodeData.homeItemIndex = homeItemIndex
+                    episodeData.seriesId = seriesId
                     episodes.Push(episodeData)
                     episodeCounter++
                 end for
