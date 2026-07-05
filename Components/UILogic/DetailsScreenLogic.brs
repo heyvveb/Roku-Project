@@ -12,14 +12,17 @@ sub OnButtonSelected(event)
     details = event.GetRoSGNode()
     content = details.content
     buttonIndex = event.getData()
+    button = details.buttons.getChild(buttonIndex)
     selectedItem=details.itemFocused
     'Check if "Play" button is pressed
-    if buttonIndex=0
+    if button.id = "play"
         HandlePlayButton(content, selectedItem)
     'Check if press "See all episodes"
-    else if buttonIndex=1
+    else if button.id = "see all episodes"
         'Create EpisodesScreen Instance and show it
-        ShowEpisodesScreen(content,selectedItem)
+        ShowEpisodesScreen(content.getChild(selectedItem))
+    else if button.id = "continue"
+        HandlePlayButton(content, selectedItem, true)
     end if
 end sub
 
@@ -43,7 +46,7 @@ sub HandlePlayButton(content as object, selectedItem as integer, isResume = fals
     itemContent = content.GetChild(selectedItem)
     'if content node is serial whit seasons
     'Set all videos in a playlist
-    if itemContent.mediaType = "Group stage matches"
+    if itemContent.mediaType = "series"
         children = []
         'clone all episodes of each season
         for each season in itemContent.GetChildren(-1,0)
@@ -56,7 +59,7 @@ sub HandlePlayButton(content as object, selectedItem as integer, isResume = fals
         index = 0
         if isResume = true
             smartBookmarks = MasterChannelSmartBookmarks()
-            episodeId=smartBookmarks.GetSmartBokkmarkForSeries(itemcontent.id)
+            episodeId=smartBookmarks.GetSmartBookmarkForSeries(itemcontent.id)
             if episodeId <> invalid and episodeId <>""
                 episode = FindNodeById(content, episodeId)
                 if episode <>invalid
