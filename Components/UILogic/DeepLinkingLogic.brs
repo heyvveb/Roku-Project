@@ -1,10 +1,10 @@
 function GetSupportedMediaTypes() as Object
     return{
-        "series": "series"
-        "season": "season"
+        "series": "Group stage matches"
+        "season": "episode"
         "episode": "episode"
         "movie": "movies"
-        "shortFormVideo": "shortFormVideos"
+        "shortFormVideo": "Group A"
     }
 end function
 
@@ -36,7 +36,7 @@ sub DeepLink(content as object, mediaType as String, contentId as String)
         'Remove all scren from screen stack exept grid screen
         ClearScreenStack()
         'looking for appropriate handler for provided mediatype
-        if mediaType = "episode" or mediaType="shorFormVideo" or mediaType="movie"
+        if mediaType = "episode" or mediaType="shortFormVideo" or mediaType="movie"
             HandlePlayableMediaTypes(playableItem)
         else if mediaType = "season"
             HandleSeasonMediaType(playableItem)
@@ -96,7 +96,7 @@ end sub
 sub prepareDetailsScreen(content as object)
     'Create Details Screen to be shown when user navigate from video player
     'it will contain info about played content
-    m.deepLinkDetailsScreen=CreateObject("roSGNode","DetailsScren")
+    m.deepLinkDetailsScreen = CreateObject("roSGNode", "DetailsScreen")
     m.deepLinkDetailsScreen.content = content
     m.deepLinkDetailsScreen.ObserveField("visible", "OnDeepLinkDetailsScreenVisibilityChanged")
     m.deepLinkDetailsScreen.ObserveField("buttonSelected", "OnDeepLinkDetailsScreenButtonSelected")
@@ -128,7 +128,7 @@ sub OnDeepLinkDetailsScreenButtonSelected(event as object)
     button = details.buttons.getChild(buttonIndex)
     content = m.deepLinkDetailsScreen.content.clone(true)
     'Start playback from the beginning if user select play button
-    if button.id = "play"
+    if button.id = "Play"
         content.bookmarkPosition = 0
     end if
     ShowVideoScreen(content)
