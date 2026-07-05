@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component name="MainScene" extends="Scene">
+    <interface>
+        <field id="inputArgs" type="assocarray" onChange="OnInputDeepLinking" />
+        <field id="launchArgs" type="assocarray" />
+    </interface>
     <script type="text/brightscript" uri="MainScene.brs" />
-    <script type="text/brightscript" uri="pkg:/source/utils.brs"/>
+    <script type="text/brightscript" uri="pkg:/source/utils.brs" />
+    <script type="text/brightscript" uri="UILogic/VideoPlayerLogic.brs" />
     <script type="text/brightscript" uri="UILogic/ScreenStackLogic.brs" />
+    <script type="text/brightscript" uri="UILogic/DetailsScreenLogic.brs" />
     <script type="text/brightscript" uri="UILogic/ContentTaskLogic.brs" />
     <script type="text/brightscript" uri="UILogic/GridScreenLogic.brs" />
-    <script type="text/brightscript" uri="UILogic/VideoPlayerLogic.brs" />
-    <script type="text/brightscript" uri="UILogic/DetailsScreenLogic.brs" />
     <script type="text/brightscript" uri="UILogic/EpisodesScreenLogic.brs" />
+    <script type="text/brightscript" uri="UILogic/DeepLinkingLogic.brs" />
+    <script type="text/brightscript" uri="UILogic/BookmarksLogic.brs" />
+    <script type="text/brightscript" uri="UILogic/SmartBookmarksLogic.brs" />
     <children>
         <!-- Overhang logo in screen -->
         <Overhang
