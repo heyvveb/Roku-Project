@@ -29,7 +29,7 @@ sub ShowChannelRSGScreen(args as Object)
             inputData = msg.getInfo()
             ? "input"
             'Pass the deeplink to UI
-            if inputData.DoesExist("mediType") and inputData.DoesExist("contentId")
+            if inputData.DoesExist("mediaType") and inputData.DoesExist("contentId")
                 deeplink = {
                     contentId: inputData.contentId
                     mediaType: inputData.mediaType

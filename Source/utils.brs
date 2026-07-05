@@ -9,6 +9,7 @@ Function ContentListToSimpleNode(contentList as Object, nodeType ="ContentNode" 
     end if
     return result
 end function
+
 function GetTime(length as Integer) as String
     minutes = (length \ 60).ToStr()
     seconds = length MOD 60
@@ -36,7 +37,7 @@ end function
 'Finds child node by content id
 function findNodeById(content as object, contentId as string) as object
     for each element in content.GetChildren(-1,0)
-        if content.id=contentId
+        if element.id=contentId
             return element
         else if element.GetChildCount()>0
             result = findNodeById(element,contentId)
