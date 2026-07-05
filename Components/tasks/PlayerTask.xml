@@ -2,6 +2,9 @@
 
 <component name="PlayerTask" extends="Task">
     <script type="text/brightscript" uri="PlayerTask.brs" />
+    <script type="text/brightscript" uri="pkg:/components/UILogic/BookmarksLogic.brs" />
+    <script type="text/brightscript" uri="pkg:/components/UILogic/SmartBookmarksLogic.brs" />
+    <script type="text/brightscript" uri="pkg:/source/utils.brs" />
     <interface>
         <field id="content" type="node" />
         <field id="startIndex" type="integer" />

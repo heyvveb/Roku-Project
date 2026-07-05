@@ -12,7 +12,12 @@ sub PlayContentWithAds()
     parentNode=m.top.getParent()
     content = m.top.content
     m.top.lastIndex = m.top.startIndex
-    items=content.GetChildren(-1,0)
+    items = []
+    if content.getChildCount()>0
+        items=content.GetChildren(-1,0)
+    else
+        items = [content]
+    end if
     'Main entry point for instantianting the ad interface
     RAF=Roku_Ads()
     RAF.enableAdMeasurements(true)
@@ -51,7 +56,7 @@ sub PlayContentWithAds()
             if KeepPlay = false
                 bookmarks.UpdateBookmarkForvideo(item, csasStream.position)
             else
-                bookmarks.UpdateBookmarkForvideo(item.id)
+                bookmarks.RemoveBookmarkForVideo(item.id)
             end if
         else
             if m.top.isSeries=true
