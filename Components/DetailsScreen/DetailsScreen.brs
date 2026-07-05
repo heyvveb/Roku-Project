@@ -20,17 +20,17 @@ sub OnVisibleChange()
     end if
 end sub
 
-sub SetButtons(buttons)
+sub SetButtons(buttons as object)
     'Create buttons
     result = []
     for each button in buttons
-        result.Push({title: button})
+        result.Push({title: button, id: LCase(button)})
     end for
     'Set list of buttons for detailsScreen
     m.buttons.content = ContentListToSimpleNode(result)
 end sub
 
-sub OncontentChagne(event as object)
+sub OnContentChange(event as object)
     content = event.getData()
     if content <> invalid
         m.isContentList=content.GetChildCount()>0
@@ -50,21 +50,21 @@ sub SetDetailsContent(content as object)
     m.titleLabel.text = content.title
     m.releaseLabel.text = Left(content.releaseDate,10)
     buttonList = ["Play"]
-    if content.mediaType = "Group stage matches"
+    if content.mediaType = "series"
         smartBookmarks=MasterChannelSmartBookmarks()
         'id of episode which should be played
         episodeId=smartBookmarks.GetSmartBookmarkforSeries(content.id)
         if episodeId <> invalid and episodeId <> ""
-            episode = FindNodeById(conten,episodeId)
+            episode = FindNodeById(content,episodeId)
             if episode <> invalid
-                episode.bookmarkPosition = MasterChannelSmartBookmarks().GetBookmarkForVideo(episode)
+                episode.bookmarkPosition = MasterChannelBookmarks().GetBookmarkForVideo(episode)
                 buttonList.Push("Continue")
             end if
         end if
         buttonList.Push("See all episodes")
     else
         'set playback start position using bookmarks
-        content.bookmarkPosition = MasterChannelSmartBookmarks().GetBookmarkForVideo(content)
+        content.bookmarkPosition = MasterChannelBookmarks().GetBookmarkForVideo(content)
         'add continue button if user started this content but didnt finish it
         if content.bookmarkPosition > 0
             buttonList.Push("Continue")
@@ -82,8 +82,10 @@ end sub
 
 sub OnItemFocusedChanged(event as Object)
     focusedItem= event.GetData()
-    content = m.top.content.GetChild(focusedItem)
-    SetDetailsContent(content)
+    if m.top.content.GetChildCount() > 0
+        content = m.top.content.GetChild(focusedItem)
+        SetDetailsContent(content)
+    end if
 end sub
 
 function OnKeyEvent(key as string, press as Boolean) as Boolean
