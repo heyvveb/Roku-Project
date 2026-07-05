@@ -17,6 +17,7 @@ sub itemContentChanged()
         m.poster.uri=itemContent.hdPosterUrl
         m.title.text = itemContent.title
         divider = " | "
+        print itemContent.episodePosition
         episode = "Game " + itemContent.episodePosition
         time = GetTime(itemContent.length)
         date = itemContent.releaseDate
