@@ -11,7 +11,7 @@ end function
 
 'Read all smart bookmarks
 sub LoadSmartBookmarks()
-    m.smarBookmarks()
+    m.smartBookmarks = []
     raw = RegRead("smartBookmarks","master_channel_bookmarks")
     if raw <> invalid
         m.smarBookmarks = ParseJson(raw)
@@ -50,7 +50,7 @@ end sub
 
 'return last played episode id for specified series
 function GetSmartBookmarkForSeries(id as String) as String
-    resutlt = ""
+    result = ""
     'Read smart booksmarks from registry if neaded
     if m.smartBookmarks = invalid
         m.LoadSmartBookmarks()
