@@ -9,6 +9,7 @@ sub Init()
     InitScreenStack()
     ShowGridScreen()
     RunContentTask()
+    m.top.signalBeacon("AppLaunchComplete")
 end sub
 
 'Funtion that recibes events of remote control
