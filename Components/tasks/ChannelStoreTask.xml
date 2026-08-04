@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="ChannelStoreTask" extends="Task">
+    <script type="text/brightscript" uri="ChannelStoreTask.brs" />
+    <script type="text/brightscript" uri="pkg:/source/utils.brs" />
+    <interface>
+        <!-- ContentNode built from the catalog products -->
+        <field id="catalog" type="node" />
+        <!-- populated if GetCatalog() request fails -->
+        <field id="catalogError" type="string" />
+    </interface>
+</component>
