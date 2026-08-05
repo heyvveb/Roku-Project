@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="ProductsListItemComponent" extends="Group" xsi:noNamespaceSchemaLocation="https://devtools.web.roku.com/schema/RokuSceneGraph.xsd">
+    <script type="text/brightscript" uri="ProductListItemComponent.brs" />
+    <interface>
+        <field id="itemContent" type="node" onChange="OnContentSet" />
+    </interface>
+    <children>
+        <Rectangle
+            width="900"
+            height="130"
+            color="0x262636"
+        />
+        <LayoutGroup
+            layoutDirection="horiz"
+            itemSpacings="[20]"
+            translation="[20,20]"
+        >
+            <LayoutGroup itemSpacings="[8]">
+                <Label
+                    id="title"
+                    color="#EFEFEFFF"
+                    width="600"
+                    wrap="false"
+                    font="font:MediumBoldSystemFont"
+                />
+                <Label
+                    id="description"
+                    color="#FFFFFF6F"
+                    width="600"
+                    wrap="true"
+                    maxLines="2"
+                />
+            </LayoutGroup>
+            <Label
+                id="price"
+                color="#EFEFEFFF"
+                width="200"
+                horizAlign="right"
+                font="font:MediumBoldSystemFont"
+            />
+        </LayoutGroup>
+    </children>
+</component>
