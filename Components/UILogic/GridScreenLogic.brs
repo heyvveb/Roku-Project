@@ -1,6 +1,7 @@
 sub ShowGridScreen()
     m.GridScreen = CreateObject("roSGNode" , "GridScreen")
     m.GridScreen.ObserveField("rowItemSelected", "OnGridScreenItemSelected")
+    m.GridScreen.ObserveField("buttonSelected", "OnButtonGridSelected")
     'show grid screen
     ShowScreen(m.GridScreen) 
 end sub
@@ -13,4 +14,16 @@ sub OnGridScreenItemSelected(event as object)
     rowContent = grid.content.GetChild(m.selectedIndex[0])
     m.selectedRow = m.selectedIndex[0]
     ShowDetailsScreen(rowContent,m.selectedIndex[1])
+end sub
+
+sub OnButtonGridSelected(event)
+    details = event.GetRoSGNode()
+    content = details.content
+    buttonIndex = event.getData()
+    button = details.buttons.getChild(buttonIndex)
+    selectedItem=details.itemFocused
+    'Check if "Products" button is pressed
+    if button.id = "products"
+        ShowProductsScreen()
+    end if
 end sub
