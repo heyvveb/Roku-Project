@@ -9,17 +9,22 @@ sub GetCatalogFromStore()
     store.SetMessagePort(port)
     'Trigger the async catalog request
     store.GetCatalog()
-    msg = wait(45000, port)
+    msg = wait(0, port)
     if type(msg) = "roChannelStoreEvent"
         'Check if the request happened
         succeeded = msg.isRequestSucceeded()
         if succeeded
             'Extract data from products
             products = msg.GetResponse()
+            for each product in products
+                print "codigo: "; product.code; " nombre: "; product.name
+            end for
             'add products to catalog node
             m.top.catalog = ContentListToSimpleNode(ConvertProductsToAA(products))
         else if msg.isRequestFailed()
-            m.top.catalogError = msg.GetMessage()
+            response = msg.GetResponse()
+            print "ChannelStoreTask failed response: "; FormatJson(response)
+            m.top.catalogError = "Failed to load catalog"
         else if msg.isRequestInterrupted()
             m.top.catalogError = "Catalog request was interrupted"
         end if
