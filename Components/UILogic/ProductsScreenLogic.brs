@@ -2,6 +2,7 @@
 sub ShowProductsScreen()
     m.productsScreen = CreateObject("roSGNode", "ProductsScreen")
     m.productsScreen.loading = true
+    m.productsScreen.ObserveField("productSelected","OnProductSelected")
     ShowScreen(m.productsScreen)
     RunChannelStoreTask()
 end sub
@@ -27,3 +28,29 @@ sub OnCatalogError(event as object)
     print "ChannelStoreTask error: "; event.GetData()
 end sub
 
+sub OnProductSelected(event as object)
+    index = event.GetData()
+    product = m.productsScreen.content.GetChild(index)
+    if product.isEntitled = true
+        return
+    end if
+    m.productsScreen.loading=true
+    m.purchaseTask = CreateObject("roSGNode","PurchaseTask")
+    m.purchaseTask.productCode=product.id
+    m.purchaseTask.ObserveField("purchaseSucceeded", "OnPurchaseSucceeded")
+    m.purchaseTask.ObserveField("purchaseError", "OnPurchaseError")
+    m.purchaseTask.control="RUN"
+end sub
+
+sub OnPurchaseSucceeded(event as object)
+    succeeded=event.GetData()
+    if succeeded=true
+        RunChannelStoreTask()
+    end if
+end sub
+
+sub OnPurchaseError(event as object)
+    error = event.GetData()
+    m.productsScreen.loading = false
+    print "Purchase Error: "; error
+end sub
