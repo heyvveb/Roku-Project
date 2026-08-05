@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="ProductsScreen" extends="Group" initialFocus="productsList" xsi:noNamespaceSchemaLocation="https://devtools.web.roku.com/schema/RokuSceneGraph.xsd">
+    <script type="text/brightscript" uri="ProductsScreen.brs" />
+    <script type="text/brightscript" uri="pkg:/Source/utils.brs" />
+    <interface>
+        <!-- Content node built from the channel store catalog -->
+        <field id="content" type="node" onChange="OnContentChange" />
+        <!-- Toggled by ProductsScreenLogic while the catalog request is in flight -->
+        <field id="loading" type="boolean" onChange="OnLoadingChange" />
+    </interface>
+    <children>
+        <Label
+            id="titleLabel"
+            text="Products"
+            translation="[90,150]"
+            font="font:LargeBoldSystemFont"
+        />
+        <Label
+            id="loadingLabel"
+            text="Loading products..."
+            translation="[90,220]"
+            visible="false"
+        />
+        <Label
+            id="emptyLabel"
+            text="No products available right now."
+            translation="[90,220]"
+            visible="false"
+        />
+        <MarkupList
+            id="productsList"
+            translation="[90,220]"
+            itemComponentName="ProductsListItemComponent"
+            focusBitmapUri="pkg:/images/focus.9.png"
+            focusFootprintBitmapUri="pkg:/images/focus.9.png"
+            itemSize="[900, 130]"
+            itemSpacing="[0,16]"
+            numRows="4"
+        />
+    </children>
+</component>
