@@ -15,6 +15,7 @@
     <script type="text/brightscript" uri="UILogic/DeepLinkingLogic.brs" />
     <script type="text/brightscript" uri="UILogic/BookmarksLogic.brs" />
     <script type="text/brightscript" uri="UILogic/SmartBookmarksLogic.brs" />
+    <script type="text/brightscript" uri="UILogic/ProductsScreenLogic.brs" />
     <children>
         <!-- Overhang logo in screen -->
         <Overhang
