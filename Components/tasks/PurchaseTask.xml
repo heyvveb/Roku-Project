@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="PurchaseTask" extends="task">
+    <script type="text/brightscript" uri="PurchaseTask.brs" />
+    <interface>
+        <field id="productCode" type="string" />
+        <field id="purchaseSucceeded" type="boolean" />
+        <field id="purchaseError" type="String" />
+    </interface>
+</component>
