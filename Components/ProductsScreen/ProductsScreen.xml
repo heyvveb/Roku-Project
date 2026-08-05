@@ -7,6 +7,8 @@
         <field id="content" type="node" onChange="OnContentChange" />
         <!-- Toggled by ProductsScreenLogic while the catalog request is in flight -->
         <field id="loading" type="boolean" onChange="OnLoadingChange" />
+        <!-- Index of products selected -->
+        <field id="productSelected" type="integer" alwaysNotify="true" alias="productsList.itemSelected" />
     </interface>
     <children>
         <Label
