@@ -4,6 +4,8 @@ Function ContentListToSimpleNode(contentList as Object, nodeType ="ContentNode" 
         for each itemAA in contentList
             item = CreateObject("roSGNode",nodeType)
             item.SetFields(itemAA)
+            item.AddField("isEntitled", "boolean", false)
+            item.isEntitled = itemAA.isEntitled
             result.AppendChild(item)
         end for
     end if
@@ -72,3 +74,22 @@ sub RegDelete(key as String, section = invalid as dynamic)
     reg.Delete(key)
     reg.Flush()
 end sub
+
+'Get codes for valid products to play videos
+function GetProductsCodes()
+    Code=[
+    "com.nfl.gamecenter.2021.NFLPLUS.YEARLY",
+    "com.nfl.gamecenter.2021.GAMEPASS.SEASON"
+    ]
+    return Code
+end function
+
+'Check if the purchase codes are on the list of valid product codes.
+function IsCodeInList(code as string, list as object) as boolean
+    for each validCode in list
+        if code = validCode
+            return true
+        end if
+    end for
+    return false
+end function
