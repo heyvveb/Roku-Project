@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="SubscriptionVerificationTask" extends="task">
+    <script type="text/brightscript" uri="SubscriptionVerificationTask.brs" />
+    <script type="text/brightscript" uri="pkg:/source/utils.brs" />
+    <interface>
+        <!-- List of valid products codes-->
+        <field id="productsCodes" type="array" />
+        <!--Product code that granted access-->
+        <field id="entitledCode" type="string" />
+        <!-- If has the subscription -->
+        <field id="isEntited" type="boolean" alwaysNotify="true" />
+        <field id="entitedError" type="string" alwaysNotify="true"/>
+    </interface>
+</component>
