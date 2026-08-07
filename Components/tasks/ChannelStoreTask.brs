@@ -10,17 +10,31 @@ sub GetCatalogFromStore()
     'Trigger the async catalog request
     store.GetCatalog()
     msg = wait(0, port)
+    store.GetPurchases()
+    purchasesmsg=wait(0,port)
+    purchasesCodes=[]
     if type(msg) = "roChannelStoreEvent"
         'Check if the request happened
         succeeded = msg.isRequestSucceeded()
         if succeeded
             'Extract data from products
             products = msg.GetResponse()
+            print "Products:"
             for each product in products
-                print "codigo: "; product.code; " nombre: "; product.name
+                print "Code: "; product.code; " name: "; product.name
             end for
+            if type(purchasesmsg) = "roChannelStoreEvent" and purchasesMsg.isRequestSucceeded()
+                'Extract data from products
+                purchases=purchasesmsg.GetResponse()
+                print "Purchases:"
+                for each purchase in purchases
+                    print "Code: "; purchase.code; " name: "; purchase.name
+                    'add purchases codes to the list
+                    purchasesCodes.Push(purchase.code)
+                end for
+            end if
             'add products to catalog node
-            m.top.catalog = ContentListToSimpleNode(ConvertProductsToAA(products))
+            m.top.catalog = ContentListToSimpleNode(ConvertProductsToAA(products,purchasesCodes))
         else if msg.isRequestFailed()
             response = msg.GetResponse()
             print "ChannelStoreTask failed response: "; FormatJson(response)
@@ -34,7 +48,7 @@ sub GetCatalogFromStore()
 end sub
 
 'Convert products info to contentlist
-function ConvertProductsToAA(products as object) as object
+function ConvertProductsToAA(products as object,purchases as object) as object
     result = []
     for each product in products
         item = {}
@@ -42,9 +56,9 @@ function ConvertProductsToAA(products as object) as object
         item.title = product.name
         item.description = product.name
         item.price = product.cost
-        item.productType = product.type
-        item.span = product.span
-        item.isEntitled = product.isEntitled
+        item.productType = product.productType
+        'Check if the product was purchased
+        item.isEntitled = IsCodeInList(product.code,purchases)
         result.Push(item)
     end for
     return result
