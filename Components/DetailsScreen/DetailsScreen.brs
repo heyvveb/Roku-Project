@@ -50,7 +50,7 @@ sub SetDetailsContent(content as object)
     m.titleLabel.text = content.title
     m.releaseLabel.text = Left(content.releaseDate,10)
     buttonList = ["Play"]
-    if content.mediaType = "series"
+    if content.mediaType = "Group stage matches"
         smartBookmarks=MasterChannelSmartBookmarks()
         'id of episode which should be played
         episodeId=smartBookmarks.GetSmartBookmarkforSeries(content.id)
