@@ -16,14 +16,51 @@ sub OnButtonSelected(event)
     selectedItem=details.itemFocused
     'Check if "Play" button is pressed
     if button.id = "play"
-        HandlePlayButton(content, selectedItem)
+        CheckEntitlementBeforePlay(content, selectedItem)
     'Check if press "See all episodes"
     else if button.id = "see all episodes"
         'Create EpisodesScreen Instance and show it
         ShowEpisodesScreen(content.getChild(selectedItem))
     else if button.id = "continue"
-        HandlePlayButton(content, selectedItem, true)
+        CheckEntitlementBeforePlay(content, selectedItem, true)
     end if
+end sub
+
+'Run verification task for item selected
+sub CheckEntitlementBeforePlay(content as object, selectedItem as integer, isResume = false as Boolean)
+    m.pendingPlayback = {
+        content: content
+        selectedItem:selectedItem
+        isResume:isResume
+    }
+    m.SubscriptionVerificationTask=CreateObject("roSGNode","SubscriptionVerificationTask")
+    m.SubscriptionVerificationTask.productsCodes = GetProductsCodes()
+    m.SubscriptionVerificationTask.ObserveField("isEntited", "OnPlaySuscriptionChecked")
+    m.SubscriptionVerificationTask.ObserveField("entitedError", "OnPlaySuscriptionError")
+    m.SubscriptionVerificationTask.control="RUN"
+end sub
+
+'When finish the verification
+sub OnPlaySuscriptionChecked(event as object)
+    isEntitled = event.GetData()
+    pending = m.pendingPlayback
+    m.pendingPlayback = invalid
+    if pending = invalid
+        return
+    end if
+    'If user has the product reproduce video
+    if isEntitled=true
+        HandlePlayButton(pending.content, pending.selectedItem,pending.isResume)
+    else
+    'If user hasn't the product redirects to products screen
+        ShowProductsScreen()
+    end if
+end sub
+
+sub OnPlaySuscriptionError(event as object)
+    error=event.getData()
+    print "EntitlementTask error: "; error
+    m.pendingPlayback = invalid
 end sub
 
 sub OnDetailsScreenVisibilityChanged(event as object)
@@ -46,7 +83,7 @@ sub HandlePlayButton(content as object, selectedItem as integer, isResume = fals
     itemContent = content.GetChild(selectedItem)
     'if content node is serial whit seasons
     'Set all videos in a playlist
-    if itemContent.mediaType = "series"
+    if itemContent.mediaType = "Group stage matches"
         children = []
         'clone all episodes of each season
         for each season in itemContent.GetChildren(-1,0)
